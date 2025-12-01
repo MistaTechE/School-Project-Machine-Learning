@@ -58,4 +58,18 @@ def data_inspection(dataframe):
         print("Duplicate rows removed:")
         print(removed_count)
 
+
+    dataframe = clean_up(dataframe)
+    dataframe.to_csv(f"data/normalized_clean_dataframe.csv", index=False)
+
     return dataframe
+
+def clean_up(df):
+
+    #combine two columns
+    df["Category_StudentGroup"] = df["Category"] + ": " + df["Student group"]
+    df = df.drop(columns=["Category", "Student group"])
+    print("NEW DATAFRAME HEAD:")
+    print(df.head())
+
+    return df
