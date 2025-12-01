@@ -66,9 +66,19 @@ def data_inspection(dataframe):
 
 def clean_up(df):
 
-    #combine two columns
+    #combine columns
     df["Category: Student Group"] = df["Category"].fillna("").str.strip() + ": " + df["Student group"]
     df = df.drop(columns=["Category", "Student group"])
+    print("NEW DATAFRAME HEAD:")
+    print(df.head())
+
+    df["District code: District name"] = df["District code"] + ": " + df["District name"]
+    df = df.drop(columns=["District code", "District name"])
+    print("NEW DATAFRAME HEAD:")
+    print(df.head())
+
+    #dropping columns that don't add value, all rows the same
+    df = df.drop(columns=["Date update", "Reporting period"])
     print("NEW DATAFRAME HEAD:")
     print(df.head())
 
