@@ -1,5 +1,5 @@
 #csv_loading.py
-
+import io
 import pandas as pd
 
 def load_data(path):
@@ -20,6 +20,13 @@ def data_inspection(dataframe):
 
     #remove duplicate rows
     initial_rows = dataframe.shape[0]
+    final_rows = dataframe.shape[0]
+    removed_count = initial_rows - final_rows
+    if (initial_rows == final_rows):
+        print("No duplicate rows to be removed")
+    else:
+        print("Duplicate rows removed:")
+        print(removed_count)
     dataframe.drop_duplicates(inplace=True)
     final_rows = dataframe.shape[0]
     removed_count = initial_rows - final_rows
@@ -30,6 +37,19 @@ def data_inspection(dataframe):
     print(dataframe.shape)
     print("info")
     print(dataframe.info())
+
+    buffer = io.StringIO()
+    dataframe.info(buf=buffer)
+    info = buffer.getvalue()
+    info_df = pd.DataFrame({"info": info.splitlines()})
+    info_df.to_csv("data/dataset_info.csv", index=False)
+    head = dataframe.head()
+    head.to_csv(f"data/dataset_head.csv", index=False)
+    shape = pd.DataFrame({
+        "rows": [dataframe.shape[0]],
+        "columns": [dataframe.shape[1]]
+    })
+    shape.to_csv(f"data/dataset_shape.csv", index=False)
 
     print(initial_rows == final_rows)
     if (initial_rows == final_rows):

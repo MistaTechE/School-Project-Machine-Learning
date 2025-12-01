@@ -1,0 +1,20 @@
+info
+<class 'pandas.core.frame.DataFrame'>
+"RangeIndex: 2019 entries, 0 to 2018"
+Data columns (total 12 columns):
+ #   Column                                    Non-Null Count  Dtype  
+---  ------                                    --------------  -----  
+ 0   District code                             2019 non-null   object 
+ 1   District name                             2019 non-null   object 
+ 2   Category                                  1818 non-null   object 
+ 3   Student group                             2019 non-null   object 
+ 4   2021-2022 student count - year to date    2019 non-null   int64  
+ 5   2021-2022 attendance rate - year to date  2019 non-null   float64
+ 6   2020-2021 student count                   1963 non-null   float64
+ 7   2020-2021 attendance rate                 1963 non-null   float64
+ 8   2019-2020 student count                   1957 non-null   float64
+ 9   2019-2020 attendance rate                 1957 non-null   float64
+ 10  Reporting period                          2019 non-null   object 
+ 11  Date update                               2019 non-null   object 
+"dtypes: float64(5), int64(1), object(6)"
+memory usage: 189.4+ KB
