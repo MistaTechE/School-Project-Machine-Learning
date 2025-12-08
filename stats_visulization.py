@@ -44,4 +44,4 @@ def cluster_summary(normalized_dataframe):
     #round to 1 decimal
     cluster_category_col_percent = cluster_category_col_percent.round(1)
     print(cluster_category_col_percent)
-    cluster_category_col_percent.to_csv("data/cluster_category_percentages_bycolumn.csv")
+    cluster_category_col_percent.to_csv("data/cluster_category_percentages_by_column.csv")
