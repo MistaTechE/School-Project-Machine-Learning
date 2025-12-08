@@ -21,3 +21,11 @@ def cluster_summary(normalized_dataframe):
     cluster_summary.to_csv("data/cluster_summary.csv", index=True)
     print("printing cluster summary:")
     print(cluster_summary)
+
+    #create the cross-tab
+    cluster_category_crosstab = pd.crosstab(
+        normalized_dataframe['performance_cluster'],
+        normalized_dataframe['Category: Student Group']
+    )
+    print(cluster_category_crosstab)
+    cluster_category_crosstab.to_csv("data/cluster_category.csv")
