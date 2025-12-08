@@ -29,3 +29,11 @@ def cluster_summary(normalized_dataframe):
     )
     print(cluster_category_crosstab)
     cluster_category_crosstab.to_csv("data/cluster_category.csv")
+
+
+    #normalize by cluster size per row
+    cluster_category_percent = cluster_category_crosstab.div(cluster_category_crosstab.sum(axis=1), axis=0) * 100
+    #round to 1 decimal for readability
+    cluster_category_percent = cluster_category_percent.round(1)
+    print(cluster_category_percent)
+    cluster_category_percent.to_csv("data/cluster_category_percentages.csv")
