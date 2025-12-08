@@ -36,4 +36,12 @@ def cluster_summary(normalized_dataframe):
     #round to 1 decimal for readability
     cluster_category_percent = cluster_category_percent.round(1)
     print(cluster_category_percent)
-    cluster_category_percent.to_csv("data/cluster_category_percentages.csv")
+    cluster_category_percent.to_csv("data/cluster_category_percentages_by_row.csv")
+
+
+    #normalize by column (category)
+    cluster_category_col_percent = cluster_category_crosstab.div(cluster_category_crosstab.sum(axis=0), axis=1) * 100
+    #round to 1 decimal
+    cluster_category_col_percent = cluster_category_col_percent.round(1)
+    print(cluster_category_col_percent)
+    cluster_category_col_percent.to_csv("data/cluster_category_percentages_bycolumn.csv")

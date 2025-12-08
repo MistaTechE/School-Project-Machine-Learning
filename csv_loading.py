@@ -66,6 +66,13 @@ def data_inspection(dataframe):
 
 def clean_up(df):
 
+    #dropping rows that add confusion later and can be computed from the other columns
+    # Drop rows where student group is 'All Students'
+    df = df[df['Student group'] != 'All Students']
+    #reset the index
+    df = df.reset_index(drop=True)
+    print(df.head())
+
     #combine columns
     df["Category: Student Group"] = df["Category"].fillna("").str.strip() + ": " + df["Student group"]
     df = df.drop(columns=["Category", "Student group"])
@@ -81,6 +88,7 @@ def clean_up(df):
     df = df.drop(columns=["Date update", "Reporting period"])
     print("NEW DATAFRAME HEAD:")
     print(df.head())
+
 
     return df
 
