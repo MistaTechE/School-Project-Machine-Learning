@@ -51,6 +51,6 @@ def normalize(df):
     kmeans = KMeans(n_clusters=best_k, random_state=42, n_init="auto")
     df["performance_cluster"] = kmeans.fit_predict(X)
 
-    print("Normalization + clustering complete. Column added: 'performance_cluster'")
+    print("Normalization and clustering pau")
     df.to_csv(f"data/normalized_dataframe.csv", index=False)
     return df

@@ -1,6 +1,8 @@
 #main.py
 from csv_loading import load_data, data_inspection
 from normalize import normalize
+from stats_visulization import cluster_summary
+
 #entry point for program to run
 def main():
     #load csv
@@ -17,6 +19,8 @@ def main():
     print(normalized_dataframe.info())
     print("printing normalized df shape")
     print(normalized_dataframe.shape)
+
+    cluster_summary(normalized_dataframe)
 
 
 if __name__ == "__main__":
