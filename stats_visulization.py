@@ -17,7 +17,7 @@ def cluster_summary(normalized_dataframe):
     )
 
     #flatten multi-level columns
-    #cluster_summary.columns = ['_'.join(col).strip() for col in cluster_summary.columns.values]
+    cluster_summary.columns = ['_'.join(col).strip() for col in cluster_summary.columns.values]
     cluster_summary.to_csv("data/cluster_summary.csv", index=True)
     print("printing cluster summary:")
     print(cluster_summary)
