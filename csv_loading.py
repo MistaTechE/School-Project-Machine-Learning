@@ -60,7 +60,7 @@ def data_inspection(dataframe):
 
 
     dataframe = clean_up(dataframe)
-    dataframe.to_csv(f"data/normalized_clean_dataframe.csv", index=False)
+    dataframe.to_csv(f"data/clean_dataframe.csv", index=False)
 
     return dataframe
 
@@ -83,3 +83,5 @@ def clean_up(df):
     print(df.head())
 
     return df
+
+
