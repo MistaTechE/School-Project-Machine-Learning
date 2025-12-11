@@ -74,4 +74,4 @@ def rand_search(df):
     print("Best Hyperparameters found:", best_params)
     print(f"Best CV R²: {best_score:.3f}")
     print(f"Mean MAE: {mae_scores.mean():.3f} | Std Dev: {mae_scores.std():.3f}")
-    return best_model
+    return best_params

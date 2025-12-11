@@ -45,7 +45,7 @@ def gmm_cluster(df):
     df["cluster_prob_low_attendance"] = gmm.predict_proba(X).min(axis=1)
     df.to_csv(f"data/gmm_dataframe.csv", index=False)
     #TODO need to use best_model in train_explainer_model
-    best_model = rand_search(df)
+    best_params = rand_search(df)
 
-    model, shap_values = train_explainer_model(df)
+    model, shap_values = train_explainer_model(df, best_params)
     return df, model, shap_values

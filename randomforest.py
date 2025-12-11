@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from shap_info import shap_info
 
-def train_explainer_model(df):
+def train_explainer_model(df, best_params):
 
     features = [
         "2021-2022 attendance rate - year to date_scaled",
@@ -23,7 +23,7 @@ def train_explainer_model(df):
     )
 
     model = RandomForestClassifier(
-        n_estimators=400,
+        **best_params,
         random_state=42
     )
 
