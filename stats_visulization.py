@@ -102,11 +102,12 @@ def gmm_info(df):
         "2019-2020 student count_scaled"
     ]
 
+
     #cluster averages for numeric features
     cluster_averages = df.groupby("gmm_cluster")[features].mean()
 
     #column-wise percentages for student group composition
-    crosstab = pd.crosstab(df["Student group"], df["gmm_cluster"])
+    crosstab = pd.crosstab(df['Category: Student Group'], df["gmm_cluster"])
     crosstab_percent = crosstab.div(crosstab.sum(axis=0), axis=1) * 100
 
     #combine averages and composition
