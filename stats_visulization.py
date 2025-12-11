@@ -92,5 +92,30 @@ def gmm_cluster_summary(normalized_dataframe):
 
 
 
+def gmm_info(df):
+    features = [
+        "2021-2022 attendance rate - year to date_scaled",
+        "2020-2021 attendance rate_scaled",
+        "2019-2020 attendance rate_scaled",
+        "2021-2022 student count - year to date_scaled",
+        "2020-2021 student count_scaled",
+        "2019-2020 student count_scaled"
+    ]
+
+    #cluster averages for numeric features
+    cluster_averages = df.groupby("gmm_cluster")[features].mean()
+
+    #column-wise percentages for student group composition
+    crosstab = pd.crosstab(df["Student group"], df["gmm_cluster"])
+    crosstab_percent = crosstab.div(crosstab.sum(axis=0), axis=1) * 100
+
+    #combine averages and composition
+    combined = cluster_averages.T.join(crosstab_percent.T, how='outer')
+
+    combined.to_csv("data/final_gmm_info.csv")
+
+    return combined
+
+
 
 

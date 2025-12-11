@@ -3,7 +3,7 @@
 from sklearn.mixture import GaussianMixture
 from randomforest import train_explainer_model
 from best_rfr_params import rand_search
-from stats_visulization import gmm_cluster_summary
+from stats_visulization import gmm_cluster_summary, gmm_info
 
 def gmm_cluster(df):
 
@@ -46,6 +46,7 @@ def gmm_cluster(df):
     df["cluster_prob_low_attendance"] = gmm.predict_proba(X).min(axis=1)
     df.to_csv(f"data/gmm_dataframe.csv", index=False)
     gmm_cluster_summary(df)
+    gmm_info(df)
     #TODO need to use best_model in train_explainer_model
     best_params = rand_search(df)
 
