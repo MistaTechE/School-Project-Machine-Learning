@@ -2,6 +2,7 @@
 from csv_loading import load_data, data_inspection
 from normalize import normalize
 from stats_visulization import cluster_summary
+from GMM_Clustering import gmm_cluster
 
 #entry point for program to run
 def main():
@@ -21,7 +22,8 @@ def main():
     print(normalized_dataframe.shape)
 
     cluster_summary(normalized_dataframe)
-
+    print("Starting new Gaussian Mixture Model (GMM) Clustering with Random Forest and Shap info:")
+    df, model, shap_values = gmm_cluster(normalized_dataframe)
 
 if __name__ == "__main__":
     main()
