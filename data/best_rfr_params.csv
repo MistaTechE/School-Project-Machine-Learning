@@ -1,2 +1,2 @@
 Model,Best Params,Best CV R²,R² Score/Mean R²,Mean MAE,MAE Std Dev
-RandomizedSearchCV,"{'max_depth': 13, 'max_features': None, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 287}",0.7505707185081973,0.7505707185081973,0.4388955286466629,0.04312695207664325
+RandomizedSearchCV,"{'max_depth': 13, 'max_features': None, 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 287}",0.7505707185081973,0.7505707185081973,0.4388955286466629,0.04312695207664322

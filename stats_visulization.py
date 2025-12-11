@@ -102,22 +102,45 @@ def gmm_info(df):
         "2019-2020 student count_scaled"
     ]
 
-
-    #cluster averages for numeric features
+    #
+    # #cluster averages for numeric features
+    # cluster_averages = df.groupby("gmm_cluster")[features].mean()
+    # cluster_averages.index.name = "Cluster"
+    # cluster_averages["Metric Type"] = "Average (Scaled)"
+    #
+    # #column-wise percentages for student group composition
+    # crosstab = pd.crosstab(df['Category: Student Group'], df["gmm_cluster"])
+    # crosstab_percent = crosstab.div(crosstab.sum(axis=0), axis=1) * 100
+    # crosstab_percent = crosstab_percent.T
+    # crosstab_percent.index.name = "Cluster"
+    # crosstab_percent["Metric Type"] = "Percentage of Student Group"
+    #
+    #
+    # #combine averages and composition
+    # combined = pd.concat([cluster_averages, crosstab_percent], axis=0, sort=False)
+    #
+    #TODO trying this out instead:
+    # Cluster averages for numeric features
     cluster_averages = df.groupby("gmm_cluster")[features].mean()
-    cluster_averages.index.name = "Cluster"
-    cluster_averages["Metric Type"] = "Average (Scaled)"
 
-    #column-wise percentages for student group composition
+    # 2️⃣ Column-wise percentages for student group composition
     crosstab = pd.crosstab(df['Category: Student Group'], df["gmm_cluster"])
     crosstab_percent = crosstab.div(crosstab.sum(axis=0), axis=1) * 100
+
+    # Transpose so clusters are rows
     crosstab_percent = crosstab_percent.T
-    crosstab_percent.index.name = "Cluster"
-    crosstab_percent["Metric Type"] = "Percentage of Student Group"
+
+    # 3️⃣ Combine averages and percentages into a single row per cluster
+    combined = pd.concat([cluster_averages, crosstab_percent], axis=1)
+
+    # 4️⃣ Optional: sort columns so numeric features come first
+    combined = combined[features + [col for col in combined.columns if col not in features]]
 
 
-    #combine averages and composition
-    combined = pd.concat([cluster_averages, crosstab_percent], axis=0, sort=False)
+
+
+
+
     combined.to_csv("data/final_gmm_info.csv")
 
     return combined
