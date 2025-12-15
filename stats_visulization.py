@@ -146,5 +146,40 @@ def gmm_info(df):
     return combined
 
 
+def summarize_avg_gmm_clusters(df):
+    # Attendance features (scaled)
+    attendance_cols = [
+        "2019-2020 attendance rate_scaled",
+        "2020-2021 attendance rate_scaled",
+        "2021-2022 attendance rate - year to date_scaled"
+    ]
+
+    # Student count features (scaled)
+    student_count_cols = [
+        "2019-2020 student count_scaled",
+        "2020-2021 student count_scaled",
+        "2021-2022 student count - year to date_scaled"
+    ]
+
+    # Average attendance per row (across years)
+    df["avg_attendance_scaled"] = df[attendance_cols].mean(axis=1)
+
+    # Average student count per row (across years)
+    df["avg_student_count_scaled"] = df[student_count_cols].mean(axis=1)
+
+    # One row per cluster
+    cluster_summary = (
+        df
+        .groupby("gmm_cluster")[["avg_attendance_scaled", "avg_student_count_scaled"]]
+        .mean()
+        .reset_index()
+    )
+
+    # Save for reporting
+    cluster_summary.to_csv("data/gmm_cluster_avg_summary.csv", index=False)
+
+    return cluster_summary
+
+
 
 
