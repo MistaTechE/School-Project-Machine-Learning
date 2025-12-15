@@ -67,8 +67,10 @@ def data_inspection(dataframe):
 def clean_up(df):
 
     #dropping rows that add confusion later and can be computed from the other columns
-    # Drop rows where student group is 'All Students'
+    #drop rows where student group is 'All Students'
     df = df[df['Student group'] != 'All Students']
+    #drop rows where student group is 'Free/Reduced Price Meal Eligible' because it duplicates the other two rows for Free/Reduced Lunch
+    df = df[df['Student group'] != 'Free/Reduced Price Meal Eligible']
     #reset the index
     df = df.reset_index(drop=True)
     print(df.head())

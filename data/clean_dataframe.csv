@@ -3,7 +3,6 @@
 78417,88.99,76487.0,89.46,80365.0,92.77,Students With Disabilities: Students With Disabilities,00000CT: Connecticut
 168984,88.51,176225.0,88.61,193706.0,93.14,Free/Reduced Lunch: Free Meal Eligible,00000CT: Connecticut
 29905,91.84,30886.0,92.99,27507.0,95.18,Free/Reduced Lunch: Reduced Price Meal Eligible,00000CT: Connecticut
-198889,89.01,207111.0,89.27,221213.0,93.4,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,00000CT: Connecticut
 43571,89.76,40619.0,89.48,45413.0,93.89,English Learners: English Learners,00000CT: Connecticut
 48700,93.14,47339.0,94.83,47260.0,95.59,Race/Ethnicity: All other races,00000CT: Connecticut
 63099,89.41,62267.0,89.31,64200.0,94.01,Race/Ethnicity: Black or African American,00000CT: Connecticut
@@ -12,14 +11,12 @@
 241106,93.98,236395.0,96.16,241610.0,96.06,High Needs: Students Without High Needs,00000CT: Connecticut
 248239,89.54,251220.0,89.96,266736.0,93.61,High Needs: Students With High Needs,00000CT: Connecticut
 23,93.15,,,,,Students With Disabilities: Students With Disabilities,10011: Andover School District
-30,92.74,31.0,94.14,37.0,94.01,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,10011: Andover School District
 134,93.65,115.0,96.99,128.0,94.79,Race/Ethnicity: White,10011: Andover School District
 113,94.1,100.0,97.52,108.0,95.52,High Needs: Students Without High Needs,10011: Andover School District
 48,93.28,44.0,95.13,50.0,93.89,High Needs: Students With High Needs,10011: Andover School District
 369,88.97,394.0,86.92,411.0,93.37,Students With Disabilities: Students With Disabilities,20011: Ansonia School District
 1192,88.93,1217.0,86.57,1312.0,93.12,Free/Reduced Lunch: Free Meal Eligible,20011: Ansonia School District
 225,92.82,213.0,92.34,147.0,95.63,Free/Reduced Lunch: Reduced Price Meal Eligible,20011: Ansonia School District
-1417,89.53,1430.0,87.43,1459.0,93.38,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,20011: Ansonia School District
 122,91.8,119.0,89.51,129.0,95.06,English Learners: English Learners,20011: Ansonia School District
 149,91.91,166.0,91.05,170.0,94.51,Race/Ethnicity: All other races,20011: Ansonia School District
 434,89.87,421.0,86.93,434.0,94.14,Race/Ethnicity: Black or African American,20011: Ansonia School District
@@ -30,7 +27,6 @@
 46,92.53,47.0,95.73,56.0,94.68,Students With Disabilities: Students With Disabilities,30011: Ashford School District
 92,91.67,98.0,92.81,,,Free/Reduced Lunch: Free Meal Eligible,30011: Ashford School District
 21,91.74,28.0,94.24,,,Free/Reduced Lunch: Reduced Price Meal Eligible,30011: Ashford School District
-113,91.68,126.0,93.12,130.0,94.77,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,30011: Ashford School District
 31,91.33,27.0,94.08,22.0,93.53,Race/Ethnicity: Hispanic/Latino of any race,30011: Ashford School District
 283,93.49,292.0,95.98,298.0,96.07,Race/Ethnicity: White,30011: Ashford School District
 189,93.85,179.0,96.86,182.0,96.66,High Needs: Students Without High Needs,30011: Ashford School District
@@ -38,7 +34,6 @@
 324,92.07,305.0,93.09,330.0,94.21,Students With Disabilities: Students With Disabilities,40011: Avon School District
 226,91.45,184.0,91.52,243.0,93.89,Free/Reduced Lunch: Free Meal Eligible,40011: Avon School District
 60,90.22,51.0,93.56,47.0,93.65,Free/Reduced Lunch: Reduced Price Meal Eligible,40011: Avon School District
-286,91.19,235.0,91.97,290.0,93.85,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,40011: Avon School District
 76,94.14,90.0,96.01,104.0,94.35,English Learners: English Learners,40011: Avon School District
 712,95.43,737.0,97.6,755.0,96.43,Race/Ethnicity: All other races,40011: Avon School District
 179,92.24,172.0,92.99,162.0,94.78,Race/Ethnicity: Black or African American,40011: Avon School District
@@ -47,14 +42,12 @@
 2427,95.17,2501.0,96.81,2531.0,96.22,High Needs: Students Without High Needs,40011: Avon School District
 587,92.21,546.0,93.48,607.0,94.17,High Needs: Students With High Needs,40011: Avon School District
 45,91.23,44.0,95.78,56.0,95.36,Students With Disabilities: Students With Disabilities,50011: Barkhamsted School District
-44,92.39,43.0,96.26,54.0,95.33,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,50011: Barkhamsted School District
 176,93.1,175.0,96.93,182.0,95.65,Race/Ethnicity: White,50011: Barkhamsted School District
 124,93.69,118.0,97.61,113.0,96.14,High Needs: Students Without High Needs,50011: Barkhamsted School District
 73,91.91,71.0,96.0,86.0,95.19,High Needs: Students With High Needs,50011: Barkhamsted School District
 385,90.7,403.0,92.49,398.0,93.56,Students With Disabilities: Students With Disabilities,70011: Berlin School District
 429,90.39,504.0,91.83,504.0,93.79,Free/Reduced Lunch: Free Meal Eligible,70011: Berlin School District
 128,91.46,126.0,95.32,83.0,95.43,Free/Reduced Lunch: Reduced Price Meal Eligible,70011: Berlin School District
-557,90.63,630.0,92.53,587.0,94.03,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,70011: Berlin School District
 95,91.71,105.0,92.98,96.0,94.13,English Learners: English Learners,70011: Berlin School District
 192,94.11,199.0,95.19,190.0,96.27,Race/Ethnicity: All other races,70011: Berlin School District
 64,92.71,77.0,93.79,63.0,94.73,Race/Ethnicity: Black or African American,70011: Berlin School District
@@ -63,7 +56,6 @@
 1756,94.49,1763.0,96.53,1838.0,96.29,High Needs: Students Without High Needs,70011: Berlin School District
 841,91.21,906.0,93.24,862.0,94.16,High Needs: Students With High Needs,70011: Berlin School District
 54,94.32,48.0,95.81,46.0,95.25,Students With Disabilities: Students With Disabilities,80011: Bethany School District
-50,94.04,46.0,92.32,49.0,94.06,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,80011: Bethany School District
 42,94.8,,,28.0,97.06,Race/Ethnicity: All other races,80011: Bethany School District
 307,95.01,290.0,96.43,296.0,95.84,Race/Ethnicity: White,80011: Bethany School District
 280,95.14,257.0,97.05,260.0,96.1,High Needs: Students Without High Needs,80011: Bethany School District
@@ -71,7 +63,6 @@
 405,92.04,371.0,91.39,387.0,94.32,Students With Disabilities: Students With Disabilities,90011: Bethel School District
 686,92.25,726.0,92.11,772.0,94.76,Free/Reduced Lunch: Free Meal Eligible,90011: Bethel School District
 217,94.06,233.0,94.78,215.0,95.78,Free/Reduced Lunch: Reduced Price Meal Eligible,90011: Bethel School District
-903,92.69,959.0,92.77,987.0,94.98,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,90011: Bethel School District
 167,92.78,183.0,92.43,222.0,95.06,English Learners: English Learners,90011: Bethel School District
 384,94.75,362.0,96.5,359.0,96.2,Race/Ethnicity: All other races,90011: Bethel School District
 128,94.03,111.0,94.49,101.0,95.52,Race/Ethnicity: Black or African American,90011: Bethel School District
@@ -82,7 +73,6 @@
 369,91.26,348.0,91.05,364.0,94.26,Students With Disabilities: Students With Disabilities,110011: Bloomfield School District
 775,91.8,898.0,92.17,1009.0,94.71,Free/Reduced Lunch: Free Meal Eligible,110011: Bloomfield School District
 163,93.1,191.0,94.18,198.0,95.69,Free/Reduced Lunch: Reduced Price Meal Eligible,110011: Bloomfield School District
-938,92.03,1089.0,92.53,1207.0,94.87,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,110011: Bloomfield School District
 87,92.21,76.0,92.34,78.0,94.24,English Learners: English Learners,110011: Bloomfield School District
 101,92.15,85.0,93.72,98.0,94.85,Race/Ethnicity: All other races,110011: Bloomfield School District
 1273,93.46,1353.0,94.27,1476.0,95.77,Race/Ethnicity: Black or African American,110011: Bloomfield School District
@@ -93,7 +83,6 @@
 80,91.48,82.0,88.51,87.0,93.03,Students With Disabilities: Students With Disabilities,120011: Bolton School District
 149,90.34,157.0,86.77,170.0,93.44,Free/Reduced Lunch: Free Meal Eligible,120011: Bolton School District
 31,91.69,26.0,90.57,22.0,92.29,Free/Reduced Lunch: Reduced Price Meal Eligible,120011: Bolton School District
-180,90.58,183.0,87.31,192.0,93.3,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,120011: Bolton School District
 51,93.94,53.0,93.11,49.0,94.28,Race/Ethnicity: All other races,120011: Bolton School District
 36,92.2,36.0,87.48,41.0,93.79,Race/Ethnicity: Black or African American,120011: Bolton School District
 89,91.31,82.0,89.91,88.0,94.44,Race/Ethnicity: Hispanic/Latino of any race,120011: Bolton School District
@@ -101,7 +90,6 @@
 509,95.66,507.0,97.55,520.0,95.59,High Needs: Students Without High Needs,120011: Bolton School District
 228,91.37,236.0,88.96,247.0,93.44,High Needs: Students With High Needs,120011: Bolton School District
 28,92.87,26.0,94.03,30.0,93.25,Students With Disabilities: Students With Disabilities,130011: Bozrah School District
-64,93.94,63.0,95.87,70.0,94.83,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,130011: Bozrah School District
 24,94.21,,,,,Race/Ethnicity: Hispanic/Latino of any race,130011: Bozrah School District
 118,94.09,129.0,96.68,132.0,95.69,Race/Ethnicity: White,130011: Bozrah School District
 77,94.61,83.0,97.31,85.0,96.67,High Needs: Students Without High Needs,130011: Bozrah School District
@@ -109,7 +97,6 @@
 322,91.4,325.0,93.12,353.0,95.56,Students With Disabilities: Students With Disabilities,140011: Branford School District
 693,90.12,756.0,91.65,810.0,96.14,Free/Reduced Lunch: Free Meal Eligible,140011: Branford School District
 193,93.02,198.0,95.38,176.0,96.32,Free/Reduced Lunch: Reduced Price Meal Eligible,140011: Branford School District
-886,90.75,954.0,92.44,986.0,96.17,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,140011: Branford School District
 166,93.58,148.0,95.03,151.0,95.98,English Learners: English Learners,140011: Branford School District
 290,93.94,278.0,96.08,293.0,97.0,Race/Ethnicity: All other races,140011: Branford School District
 97,92.48,105.0,93.17,101.0,97.14,Race/Ethnicity: Black or African American,140011: Branford School District
@@ -121,7 +108,6 @@
 3258,87.58,3283.0,86.92,3648.0,91.96,Students With Disabilities: Students With Disabilities,150011: Bridgeport School District
 9915,88.68,10597.0,88.38,12851.0,92.87,Free/Reduced Lunch: Free Meal Eligible,150011: Bridgeport School District
 1559,92.3,1342.0,92.91,1364.0,95.65,Free/Reduced Lunch: Reduced Price Meal Eligible,150011: Bridgeport School District
-11474,89.17,11939.0,88.89,14215.0,93.14,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,150011: Bridgeport School District
 4177,91.25,3692.0,90.66,4240.0,94.33,English Learners: English Learners,150011: Bridgeport School District
 811,92.45,780.0,93.99,840.0,95.38,Race/Ethnicity: All other races,150011: Bridgeport School District
 5550,89.91,5791.0,89.4,6312.0,93.69,Race/Ethnicity: Black or African American,150011: Bridgeport School District
@@ -133,7 +119,6 @@
 1417,90.34,1466.0,87.16,1552.0,92.94,Students With Disabilities: Students With Disabilities,170011: Bristol School District
 3545,90.63,3521.0,87.47,3721.0,93.68,Free/Reduced Lunch: Free Meal Eligible,170011: Bristol School District
 436,92.92,530.0,91.94,412.0,95.1,Free/Reduced Lunch: Reduced Price Meal Eligible,170011: Bristol School District
-3981,90.88,4051.0,88.06,4133.0,93.82,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,170011: Bristol School District
 423,91.27,397.0,88.56,440.0,94.28,English Learners: English Learners,170011: Bristol School District
 627,92.88,610.0,91.93,623.0,95.64,Race/Ethnicity: All other races,170011: Bristol School District
 572,92.68,559.0,89.65,561.0,94.87,Race/Ethnicity: Black or African American,170011: Bristol School District
@@ -144,7 +129,6 @@
 350,91.53,355.0,93.11,369.0,96.73,Students With Disabilities: Students With Disabilities,180011: Brookfield School District
 379,91.33,408.0,93.17,447.0,96.69,Free/Reduced Lunch: Free Meal Eligible,180011: Brookfield School District
 135,93.01,121.0,94.07,91.0,96.93,Free/Reduced Lunch: Reduced Price Meal Eligible,180011: Brookfield School District
-514,91.77,529.0,93.37,538.0,96.73,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,180011: Brookfield School District
 105,93.74,90.0,94.64,115.0,97.08,English Learners: English Learners,180011: Brookfield School District
 242,94.78,253.0,97.13,233.0,97.94,Race/Ethnicity: All other races,180011: Brookfield School District
 74,94.88,67.0,95.11,57.0,97.35,Race/Ethnicity: Black or African American,180011: Brookfield School District
@@ -155,38 +139,32 @@
 137,89.1,118.0,88.15,127.0,93.48,Students With Disabilities: Students With Disabilities,190011: Brooklyn School District
 206,88.54,243.0,89.76,270.0,94.53,Free/Reduced Lunch: Free Meal Eligible,190011: Brooklyn School District
 55,91.13,68.0,92.6,66.0,94.57,Free/Reduced Lunch: Reduced Price Meal Eligible,190011: Brooklyn School District
-261,89.07,311.0,90.4,336.0,94.54,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,190011: Brooklyn School District
 90,88.78,96.0,91.1,91.0,94.49,Race/Ethnicity: Hispanic/Latino of any race,190011: Brooklyn School District
 635,92.5,602.0,93.7,626.0,95.41,Race/Ethnicity: White,190011: Brooklyn School District
 446,93.94,395.0,95.98,431.0,95.96,High Needs: Students Without High Needs,190011: Brooklyn School District
 327,89.59,356.0,90.5,378.0,94.46,High Needs: Students With High Needs,190011: Brooklyn School District
-23,94.2,22.0,95.13,22.0,95.31,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,210011: Canaan School District
 50,94.16,41.0,97.93,41.0,96.18,High Needs: Students Without High Needs,210011: Canaan School District
 27,94.58,25.0,95.66,28.0,95.92,High Needs: Students With High Needs,210011: Canaan School District
 45,89.15,50.0,95.62,54.0,94.67,Students With Disabilities: Students With Disabilities,220011: Canterbury School District
 89,90.1,87.0,95.01,142.0,94.82,Free/Reduced Lunch: Free Meal Eligible,220011: Canterbury School District
 35,89.76,33.0,95.19,29.0,96.07,Free/Reduced Lunch: Reduced Price Meal Eligible,220011: Canterbury School District
-124,90.01,120.0,95.06,171.0,95.04,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,220011: Canterbury School District
 36,90.34,34.0,93.24,28.0,94.73,Race/Ethnicity: Hispanic/Latino of any race,220011: Canterbury School District
 386,91.62,369.0,96.22,387.0,96.02,Race/Ethnicity: White,220011: Canterbury School District
 265,92.32,250.0,96.45,232.0,96.58,High Needs: Students Without High Needs,220011: Canterbury School District
 151,89.9,149.0,95.38,199.0,95.16,High Needs: Students With High Needs,220011: Canterbury School District
 207,90.92,206.0,93.81,219.0,93.97,Students With Disabilities: Students With Disabilities,230011: Canton School District
-263,92.33,235.0,93.06,224.0,94.34,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,230011: Canton School District
 78,93.0,84.0,95.88,79.0,94.21,Race/Ethnicity: All other races,230011: Canton School District
 89,89.53,96.0,91.8,93.0,93.24,Race/Ethnicity: Black or African American,230011: Canton School District
 95,91.56,100.0,93.9,117.0,93.74,Race/Ethnicity: Hispanic/Latino of any race,230011: Canton School District
 1200,94.06,1230.0,95.94,1264.0,95.07,Race/Ethnicity: White,230011: Canton School District
 1018,94.26,1104.0,96.21,1145.0,94.98,High Needs: Students Without High Needs,230011: Canton School District
 437,91.92,381.0,93.51,408.0,94.37,High Needs: Students With High Needs,230011: Canton School District
-67,92.33,53.0,93.83,62.0,96.18,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,240011: Chaplin School District
 121,93.2,112.0,94.78,107.0,96.71,Race/Ethnicity: White,240011: Chaplin School District
 69,93.61,61.0,95.35,54.0,97.31,High Needs: Students Without High Needs,240011: Chaplin School District
 71,92.19,61.0,93.76,71.0,96.21,High Needs: Students With High Needs,240011: Chaplin School District
 527,91.77,523.0,93.77,533.0,93.31,Students With Disabilities: Students With Disabilities,250011: Cheshire School District
 460,92.1,470.0,94.31,462.0,93.71,Free/Reduced Lunch: Free Meal Eligible,250011: Cheshire School District
 154,94.2,178.0,96.28,138.0,95.57,Free/Reduced Lunch: Reduced Price Meal Eligible,250011: Cheshire School District
-614,92.63,648.0,94.84,600.0,94.13,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,250011: Cheshire School District
 96,94.84,77.0,95.94,58.0,95.4,English Learners: English Learners,250011: Cheshire School District
 527,94.85,527.0,97.47,506.0,96.32,Race/Ethnicity: All other races,250011: Cheshire School District
 135,94.2,128.0,94.99,120.0,95.36,Race/Ethnicity: Black or African American,250011: Cheshire School District
@@ -195,14 +173,12 @@
 3041,95.4,3012.0,97.83,3092.0,96.25,High Needs: Students Without High Needs,250011: Cheshire School District
 1040,92.59,1066.0,94.8,1007.0,93.98,High Needs: Students With High Needs,250011: Cheshire School District
 29,95.45,24.0,96.87,25.0,96.33,Students With Disabilities: Students With Disabilities,260011: Chester School District
-54,94.57,53.0,96.29,43.0,96.19,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,260011: Chester School District
 191,95.74,182.0,97.64,165.0,97.17,Race/Ethnicity: White,260011: Chester School District
 145,96.07,132.0,97.96,129.0,97.64,High Needs: Students Without High Needs,260011: Chester School District
 67,94.8,66.0,96.41,59.0,96.33,High Needs: Students With High Needs,260011: Chester School District
 202,91.03,208.0,93.71,218.0,93.26,Students With Disabilities: Students With Disabilities,270011: Clinton School District
 400,92.43,428.0,92.73,454.0,93.58,Free/Reduced Lunch: Free Meal Eligible,270011: Clinton School District
 126,93.9,143.0,95.35,122.0,94.1,Free/Reduced Lunch: Reduced Price Meal Eligible,270011: Clinton School District
-526,92.78,571.0,93.39,576.0,93.69,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,270011: Clinton School District
 126,94.03,106.0,92.92,101.0,94.77,English Learners: English Learners,270011: Clinton School District
 324,94.03,321.0,94.27,299.0,95.16,Race/Ethnicity: Hispanic/Latino of any race,270011: Clinton School District
 1084,93.83,1148.0,95.62,1246.0,94.48,Race/Ethnicity: White,270011: Clinton School District
@@ -211,7 +187,6 @@
 303,91.45,311.0,92.9,319.0,93.43,Students With Disabilities: Students With Disabilities,280011: Colchester School District
 409,91.28,381.0,90.89,417.0,93.24,Free/Reduced Lunch: Free Meal Eligible,280011: Colchester School District
 97,91.53,112.0,93.5,112.0,93.82,Free/Reduced Lunch: Reduced Price Meal Eligible,280011: Colchester School District
-506,91.33,493.0,91.49,529.0,93.36,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,280011: Colchester School District
 35,92.26,,,,,English Learners: English Learners,280011: Colchester School District
 159,93.76,151.0,94.9,141.0,96.56,Race/Ethnicity: All other races,280011: Colchester School District
 33,92.84,37.0,92.09,36.0,95.17,Race/Ethnicity: Black or African American,280011: Colchester School District
@@ -219,24 +194,20 @@
 1767,93.24,1739.0,95.34,1845.0,95.18,Race/Ethnicity: White,280011: Colchester School District
 1405,94.09,1380.0,96.45,1453.0,96.09,High Needs: Students Without High Needs,280011: Colchester School District
 714,91.52,699.0,92.35,727.0,93.49,High Needs: Students With High Needs,280011: Colchester School District
-20,91.42,23.0,96.02,,,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,290011: Colebrook School District
 71,92.36,72.0,96.14,67.0,96.89,Race/Ethnicity: White,290011: Colebrook School District
 44,92.65,38.0,96.18,43.0,96.98,High Needs: Students Without High Needs,290011: Colebrook School District
 31,92.07,37.0,96.28,30.0,96.61,High Needs: Students With High Needs,290011: Colebrook School District
 43,94.78,41.0,93.23,47.0,93.73,Students With Disabilities: Students With Disabilities,300011: Columbia School District
-90,94.37,92.0,93.09,91.0,94.98,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,300011: Columbia School District
 39,95.06,30.0,94.63,29.0,96.66,Race/Ethnicity: Hispanic/Latino of any race,300011: Columbia School District
 352,95.04,342.0,95.84,344.0,95.57,Race/Ethnicity: White,300011: Columbia School District
 289,95.15,265.0,96.35,267.0,95.93,High Needs: Students Without High Needs,300011: Columbia School District
 121,94.56,120.0,93.38,123.0,94.98,High Needs: Students With High Needs,300011: Columbia School District
-32,94.41,20.0,97.29,,,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,310011: Cornwall School District
 87,93.66,97.0,96.64,68.0,95.41,Race/Ethnicity: White,310011: Cornwall School District
 61,93.4,76.0,96.53,57.0,95.73,High Needs: Students Without High Needs,310011: Cornwall School District
 42,94.47,30.0,97.15,33.0,95.2,High Needs: Students With High Needs,310011: Cornwall School District
 206,89.36,205.0,91.26,222.0,92.41,Students With Disabilities: Students With Disabilities,320011: Coventry School District
 259,88.79,302.0,91.15,328.0,91.93,Free/Reduced Lunch: Free Meal Eligible,320011: Coventry School District
 90,92.88,92.0,94.2,72.0,93.83,Free/Reduced Lunch: Reduced Price Meal Eligible,320011: Coventry School District
-349,89.86,394.0,91.86,400.0,92.28,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,320011: Coventry School District
 106,90.55,111.0,93.1,112.0,92.95,Race/Ethnicity: Hispanic/Latino of any race,320011: Coventry School District
 1343,93.3,1328.0,95.5,1369.0,94.58,Race/Ethnicity: White,320011: Coventry School District
 1053,94.23,1004.0,96.59,1053.0,95.18,High Needs: Students Without High Needs,320011: Coventry School District
@@ -244,7 +215,6 @@
 211,92.87,203.0,93.67,204.0,96.43,Students With Disabilities: Students With Disabilities,330011: Cromwell School District
 381,92.65,409.0,92.97,424.0,96.55,Free/Reduced Lunch: Free Meal Eligible,330011: Cromwell School District
 105,92.67,121.0,94.59,102.0,97.45,Free/Reduced Lunch: Reduced Price Meal Eligible,330011: Cromwell School District
-486,92.65,530.0,93.34,526.0,96.73,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,330011: Cromwell School District
 99,91.97,101.0,92.39,98.0,96.96,English Learners: English Learners,330011: Cromwell School District
 200,94.29,202.0,95.75,200.0,97.59,Race/Ethnicity: All other races,330011: Cromwell School District
 126,94.38,143.0,93.58,151.0,96.62,Race/Ethnicity: Black or African American,330011: Cromwell School District
@@ -256,7 +226,6 @@
 1432,89.94,1435.0,90.25,1487.0,92.74,Students With Disabilities: Students With Disabilities,340011: Danbury School District
 4685,90.92,4885.0,91.11,5384.0,94.18,Free/Reduced Lunch: Free Meal Eligible,340011: Danbury School District
 1172,92.48,1240.0,93.23,961.0,95.49,Free/Reduced Lunch: Reduced Price Meal Eligible,340011: Danbury School District
-5857,91.23,6125.0,91.54,6345.0,94.38,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,340011: Danbury School District
 3541,91.14,3132.0,91.6,3463.0,95.02,English Learners: English Learners,340011: Danbury School District
 992,92.27,1008.0,94.16,1005.0,95.03,Race/Ethnicity: All other races,340011: Danbury School District
 785,91.09,840.0,92.3,852.0,93.25,Race/Ethnicity: Black or African American,340011: Danbury School District
@@ -267,7 +236,6 @@
 819,94.65,753.0,96.52,811.0,95.74,Students With Disabilities: Students With Disabilities,350011: Darien School District
 47,94.46,32.0,95.99,78.0,96.91,Free/Reduced Lunch: Free Meal Eligible,350011: Darien School District
 32,96.17,28.0,97.01,39.0,96.71,Free/Reduced Lunch: Reduced Price Meal Eligible,350011: Darien School District
-79,95.16,60.0,96.44,117.0,96.84,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,350011: Darien School District
 51,94.54,52.0,97.31,65.0,95.68,English Learners: English Learners,350011: Darien School District
 457,96.43,425.0,97.84,409.0,96.62,Race/Ethnicity: All other races,350011: Darien School District
 37,95.47,42.0,97.47,50.0,97.62,Race/Ethnicity: Black or African American,350011: Darien School District
@@ -276,14 +244,12 @@
 3749,95.71,3764.0,97.2,3744.0,96.31,High Needs: Students Without High Needs,350011: Darien School District
 899,94.77,828.0,96.57,931.0,95.79,High Needs: Students With High Needs,350011: Darien School District
 37,94.69,31.0,97.03,35.0,95.87,Students With Disabilities: Students With Disabilities,360011: Deep River School District
-71,94.7,79.0,96.79,88.0,96.07,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,360011: Deep River School District
 178,95.74,182.0,98.06,196.0,96.02,Race/Ethnicity: White,360011: Deep River School District
 107,96.27,114.0,98.88,131.0,96.17,High Needs: Students Without High Needs,360011: Deep River School District
 94,94.95,94.0,96.99,105.0,96.11,High Needs: Students With High Needs,360011: Deep River School District
 235,88.2,241.0,89.42,256.0,92.98,Students With Disabilities: Students With Disabilities,370011: Derby School District
 461,87.61,577.0,89.95,669.0,93.42,Free/Reduced Lunch: Free Meal Eligible,370011: Derby School District
 72,90.86,90.0,93.67,105.0,95.39,Free/Reduced Lunch: Reduced Price Meal Eligible,370011: Derby School District
-533,88.04,667.0,90.45,774.0,93.68,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,370011: Derby School District
 42,89.68,40.0,93.25,29.0,96.4,English Learners: English Learners,370011: Derby School District
 104,89.69,106.0,90.83,106.0,95.05,Race/Ethnicity: All other races,370011: Derby School District
 238,89.72,234.0,90.66,248.0,93.87,Race/Ethnicity: Black or African American,370011: Derby School District
@@ -292,12 +258,10 @@
 509,91.75,417.0,94.01,377.0,95.97,High Needs: Students Without High Needs,370011: Derby School District
 663,88.4,763.0,90.69,860.0,93.72,High Needs: Students With High Needs,370011: Derby School District
 31,92.77,37.0,92.67,46.0,95.28,Free/Reduced Lunch: Free Meal Eligible,390011: Eastford School District
-31,92.77,37.0,92.67,46.0,95.28,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,390011: Eastford School District
 106,93.78,101.0,95.88,,,Race/Ethnicity: White,390011: Eastford School District
 77,94.87,71.0,96.52,66.0,96.07,High Needs: Students Without High Needs,390011: Eastford School District
 45,92.71,53.0,93.86,63.0,94.99,High Needs: Students With High Needs,390011: Eastford School District
 120,88.5,120.0,83.48,119.0,94.11,Students With Disabilities: Students With Disabilities,400011: East Granby School District
-119,88.46,100.0,90.14,130.0,94.21,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,400011: East Granby School District
 98,93.35,86.0,92.81,94.0,95.91,Race/Ethnicity: All other races,400011: East Granby School District
 68,90.18,73.0,86.47,68.0,94.71,Race/Ethnicity: Black or African American,400011: East Granby School District
 57,87.57,56.0,89.92,54.0,95.09,Race/Ethnicity: Hispanic/Latino of any race,400011: East Granby School District
@@ -307,7 +271,6 @@
 134,92.92,126.0,95.2,115.0,95.12,Students With Disabilities: Students With Disabilities,410011: East Haddam School District
 198,91.32,161.0,94.82,197.0,94.25,Free/Reduced Lunch: Free Meal Eligible,410011: East Haddam School District
 39,93.1,40.0,95.14,46.0,95.25,Free/Reduced Lunch: Reduced Price Meal Eligible,410011: East Haddam School District
-237,91.62,201.0,94.89,243.0,94.44,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,410011: East Haddam School District
 121,92.45,41.0,96.15,,,Race/Ethnicity: Hispanic/Latino of any race,410011: East Haddam School District
 787,94.11,848.0,96.87,884.0,95.6,Race/Ethnicity: White,410011: East Haddam School District
 616,94.75,629.0,97.44,647.0,96.03,High Needs: Students Without High Needs,410011: East Haddam School District
@@ -315,7 +278,6 @@
 272,92.65,257.0,94.09,259.0,93.97,Students With Disabilities: Students With Disabilities,420011: East Hampton School District
 282,90.3,283.0,92.2,286.0,93.5,Free/Reduced Lunch: Free Meal Eligible,420011: East Hampton School District
 70,93.04,76.0,94.8,55.0,95.27,Free/Reduced Lunch: Reduced Price Meal Eligible,420011: East Hampton School District
-352,90.87,359.0,92.76,341.0,93.8,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,420011: East Hampton School District
 80,95.04,,,,,Race/Ethnicity: All other races,420011: East Hampton School District
 21,94.58,,,,,Race/Ethnicity: Black or African American,420011: East Hampton School District
 119,94.02,122.0,95.65,114.0,95.54,Race/Ethnicity: Hispanic/Latino of any race,420011: East Hampton School District
@@ -325,7 +287,6 @@
 1238,86.98,1277.0,87.18,1369.0,90.47,Students With Disabilities: Students With Disabilities,430011: East Hartford School District
 3340,89.12,3198.0,89.0,3679.0,92.56,Free/Reduced Lunch: Free Meal Eligible,430011: East Hartford School District
 577,92.77,502.0,94.34,438.0,95.02,Free/Reduced Lunch: Reduced Price Meal Eligible,430011: East Hartford School District
-3917,89.66,3700.0,89.73,4117.0,92.82,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,430011: East Hartford School District
 900,89.88,897.0,89.74,955.0,93.03,English Learners: English Learners,430011: East Hartford School District
 495,92.99,527.0,93.87,587.0,94.69,Race/Ethnicity: All other races,430011: East Hartford School District
 1840,92.51,1891.0,93.06,1964.0,95.08,Race/Ethnicity: Black or African American,430011: East Hartford School District
@@ -336,7 +297,6 @@
 409,90.1,407.0,91.21,412.0,94.43,Students With Disabilities: Students With Disabilities,440011: East Haven School District
 809,89.43,1156.0,89.72,1019.0,94.39,Free/Reduced Lunch: Free Meal Eligible,440011: East Haven School District
 49,92.83,232.0,92.84,187.0,95.0,Free/Reduced Lunch: Reduced Price Meal Eligible,440011: East Haven School District
-858,89.62,1388.0,90.23,1206.0,94.49,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,440011: East Haven School District
 272,93.56,250.0,91.88,268.0,96.33,English Learners: English Learners,440011: East Haven School District
 170,93.72,178.0,94.35,180.0,96.47,Race/Ethnicity: All other races,440011: East Haven School District
 150,92.44,141.0,90.91,145.0,94.62,Race/Ethnicity: Black or African American,440011: East Haven School District
@@ -347,7 +307,6 @@
 437,93.73,393.0,93.3,414.0,94.69,Students With Disabilities: Students With Disabilities,450011: East Lyme School District
 446,93.53,429.0,92.3,487.0,94.31,Free/Reduced Lunch: Free Meal Eligible,450011: East Lyme School District
 119,92.97,138.0,94.52,98.0,95.47,Free/Reduced Lunch: Reduced Price Meal Eligible,450011: East Lyme School District
-565,93.41,567.0,92.84,585.0,94.51,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,450011: East Lyme School District
 84,94.71,55.0,95.96,51.0,95.78,English Learners: English Learners,450011: East Lyme School District
 408,95.72,392.0,95.94,389.0,96.34,Race/Ethnicity: All other races,450011: East Lyme School District
 39,94.71,37.0,94.6,43.0,96.26,Race/Ethnicity: Black or African American,450011: East Lyme School District
@@ -358,7 +317,6 @@
 113,93.59,107.0,96.41,118.0,94.85,Students With Disabilities: Students With Disabilities,460011: Easton School District
 74,94.39,,,76.0,95.56,Free/Reduced Lunch: Free Meal Eligible,460011: Easton School District
 22,95.63,,,21.0,94.66,Free/Reduced Lunch: Reduced Price Meal Eligible,460011: Easton School District
-96,94.67,87.0,95.65,97.0,95.37,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,460011: Easton School District
 24,95.65,,,,,English Learners: English Learners,460011: Easton School District
 103,95.23,85.0,97.72,75.0,95.99,Race/Ethnicity: All other races,460011: Easton School District
 27,95.92,23.0,97.57,20.0,96.27,Race/Ethnicity: Black or African American,460011: Easton School District
@@ -369,7 +327,6 @@
 192,88.56,204.0,83.56,202.0,92.72,Students With Disabilities: Students With Disabilities,470011: East Windsor School District
 407,87.42,414.0,83.32,494.0,93.36,Free/Reduced Lunch: Free Meal Eligible,470011: East Windsor School District
 106,90.08,57.0,89.06,71.0,95.26,Free/Reduced Lunch: Reduced Price Meal Eligible,470011: East Windsor School District
-513,87.96,471.0,84.03,565.0,93.6,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,470011: East Windsor School District
 56,89.07,70.0,87.23,71.0,91.61,English Learners: English Learners,470011: East Windsor School District
 109,90.37,107.0,89.53,102.0,93.66,Race/Ethnicity: All other races,470011: East Windsor School District
 143,88.79,128.0,84.21,127.0,93.48,Race/Ethnicity: Black or African American,470011: East Windsor School District
@@ -380,7 +337,6 @@
 342,92.69,329.0,93.08,364.0,93.14,Students With Disabilities: Students With Disabilities,480011: Ellington School District
 352,91.68,377.0,92.37,393.0,93.53,Free/Reduced Lunch: Free Meal Eligible,480011: Ellington School District
 74,94.05,77.0,93.4,66.0,94.08,Free/Reduced Lunch: Reduced Price Meal Eligible,480011: Ellington School District
-426,92.1,454.0,92.54,459.0,93.61,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,480011: Ellington School District
 40,93.7,39.0,95.36,48.0,94.79,English Learners: English Learners,480011: Ellington School District
 383,94.47,386.0,97.02,374.0,95.28,Race/Ethnicity: All other races,480011: Ellington School District
 103,92.55,98.0,93.2,105.0,94.59,Race/Ethnicity: Black or African American,480011: Ellington School District
@@ -391,7 +347,6 @@
 778,89.98,784.0,94.9,819.0,92.45,Students With Disabilities: Students With Disabilities,490011: Enfield School District
 1640,90.13,1821.0,94.53,1950.0,93.01,Free/Reduced Lunch: Free Meal Eligible,490011: Enfield School District
 373,91.76,355.0,96.85,291.0,94.36,Free/Reduced Lunch: Reduced Price Meal Eligible,490011: Enfield School District
-2013,90.43,2176.0,94.91,2241.0,93.19,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,490011: Enfield School District
 151,90.61,139.0,92.6,129.0,93.59,English Learners: English Learners,490011: Enfield School District
 391,92.46,402.0,96.76,383.0,94.46,Race/Ethnicity: All other races,490011: Enfield School District
 302,89.88,323.0,93.15,329.0,93.47,Race/Ethnicity: Black or African American,490011: Enfield School District
@@ -400,7 +355,6 @@
 2183,93.72,2114.0,98.69,2218.0,95.72,High Needs: Students Without High Needs,490011: Enfield School District
 2377,90.76,2493.0,95.16,2560.0,93.32,High Needs: Students With High Needs,490011: Enfield School District
 38,95.76,37.0,98.19,49.0,96.73,Students With Disabilities: Students With Disabilities,500011: Essex School District
-58,94.29,56.0,97.74,60.0,96.66,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,500011: Essex School District
 23,95.44,20.0,98.3,21.0,97.36,Race/Ethnicity: Hispanic/Latino of any race,500011: Essex School District
 232,95.01,244.0,98.06,252.0,96.2,Race/Ethnicity: White,500011: Essex School District
 178,95.05,193.0,98.29,197.0,96.24,High Needs: Students Without High Needs,500011: Essex School District
@@ -408,7 +362,6 @@
 1408,91.86,1298.0,91.42,1416.0,94.45,Students With Disabilities: Students With Disabilities,510011: Fairfield School District
 1072,91.22,1084.0,89.49,1239.0,94.38,Free/Reduced Lunch: Free Meal Eligible,510011: Fairfield School District
 319,93.86,302.0,91.48,272.0,95.35,Free/Reduced Lunch: Reduced Price Meal Eligible,510011: Fairfield School District
-1391,91.84,1386.0,89.93,1511.0,94.56,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,510011: Fairfield School District
 221,91.25,211.0,90.37,259.0,94.85,English Learners: English Learners,510011: Fairfield School District
 1042,94.56,1008.0,94.87,1024.0,95.94,Race/Ethnicity: All other races,510011: Fairfield School District
 257,93.27,249.0,90.61,240.0,95.77,Race/Ethnicity: Black or African American,510011: Fairfield School District
@@ -419,7 +372,6 @@
 485,91.48,456.0,92.14,472.0,93.83,Students With Disabilities: Students With Disabilities,520011: Farmington School District
 558,91.53,568.0,91.41,598.0,94.03,Free/Reduced Lunch: Free Meal Eligible,520011: Farmington School District
 163,92.76,156.0,94.74,122.0,95.85,Free/Reduced Lunch: Reduced Price Meal Eligible,520011: Farmington School District
-721,91.81,724.0,92.13,720.0,94.35,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,520011: Farmington School District
 180,93.47,170.0,96.57,188.0,95.88,English Learners: English Learners,520011: Farmington School District
 1187,95.52,1119.0,97.44,1100.0,96.52,Race/Ethnicity: All other races,520011: Farmington School District
 199,92.72,201.0,93.02,192.0,94.78,Race/Ethnicity: Black or African American,520011: Farmington School District
@@ -428,14 +380,12 @@
 2863,95.31,2815.0,97.26,2915.0,96.59,High Needs: Students Without High Needs,520011: Farmington School District
 1166,92.37,1136.0,93.38,1152.0,94.62,High Needs: Students With High Needs,520011: Farmington School District
 26,91.69,,,,,Free/Reduced Lunch: Free Meal Eligible,530011: Franklin School District
-26,91.69,35.0,95.01,33.0,94.93,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,530011: Franklin School District
 120,93.7,127.0,96.97,117.0,95.94,Race/Ethnicity: White,530011: Franklin School District
 120,94.42,113.0,97.66,105.0,96.54,High Needs: Students Without High Needs,530011: Franklin School District
 35,91.72,42.0,94.76,37.0,94.66,High Needs: Students With High Needs,530011: Franklin School District
 600,92.16,616.0,95.63,646.0,94.41,Students With Disabilities: Students With Disabilities,540011: Glastonbury School District
 509,91.74,639.0,94.87,658.0,94.56,Free/Reduced Lunch: Free Meal Eligible,540011: Glastonbury School District
 118,92.79,155.0,95.6,119.0,94.63,Free/Reduced Lunch: Reduced Price Meal Eligible,540011: Glastonbury School District
-627,91.94,794.0,95.02,777.0,94.57,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,540011: Glastonbury School District
 146,94.41,148.0,96.86,151.0,94.92,English Learners: English Learners,540011: Glastonbury School District
 1066,96.09,1042.0,98.37,1013.0,96.71,Race/Ethnicity: All other races,540011: Glastonbury School District
 180,93.72,182.0,96.56,182.0,96.25,Race/Ethnicity: Black or African American,540011: Glastonbury School District
@@ -446,7 +396,6 @@
 256,92.53,258.0,95.32,253.0,94.57,Students With Disabilities: Students With Disabilities,560011: Granby School District
 213,91.64,188.0,93.05,188.0,93.97,Free/Reduced Lunch: Free Meal Eligible,560011: Granby School District
 39,93.74,33.0,95.98,31.0,95.4,Free/Reduced Lunch: Reduced Price Meal Eligible,560011: Granby School District
-252,91.97,221.0,93.48,219.0,94.17,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,560011: Granby School District
 95,93.91,92.0,96.59,97.0,95.47,Race/Ethnicity: All other races,560011: Granby School District
 104,92.68,104.0,93.49,97.0,94.91,Race/Ethnicity: Black or African American,560011: Granby School District
 80,93.86,83.0,96.03,68.0,95.76,Race/Ethnicity: Hispanic/Latino of any race,560011: Granby School District
@@ -456,7 +405,6 @@
 1093,92.51,1048.0,94.17,1107.0,99.93,Students With Disabilities: Students With Disabilities,570011: Greenwich School District
 1008,92.14,1457.0,94.5,1370.0,99.88,Free/Reduced Lunch: Free Meal Eligible,570011: Greenwich School District
 326,93.68,350.0,95.31,455.0,100.0,Free/Reduced Lunch: Reduced Price Meal Eligible,570011: Greenwich School District
-1334,92.51,1807.0,94.66,1825.0,99.91,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,570011: Greenwich School District
 354,93.18,330.0,95.18,904.0,99.94,English Learners: English Learners,570011: Greenwich School District
 1251,95.07,1245.0,97.27,1224.0,99.98,Race/Ethnicity: All other races,570011: Greenwich School District
 187,93.76,202.0,95.74,221.0,99.89,Race/Ethnicity: Black or African American,570011: Greenwich School District
@@ -467,7 +415,6 @@
 319,89.13,300.0,89.88,295.0,91.3,Students With Disabilities: Students With Disabilities,580011: Griswold School District
 621,90.31,634.0,91.34,678.0,93.05,Free/Reduced Lunch: Free Meal Eligible,580011: Griswold School District
 154,91.98,170.0,94.65,142.0,94.11,Free/Reduced Lunch: Reduced Price Meal Eligible,580011: Griswold School District
-775,90.64,804.0,92.04,820.0,93.24,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,580011: Griswold School District
 24,86.72,26.0,94.58,22.0,94.81,English Learners: English Learners,580011: Griswold School District
 166,91.36,166.0,94.12,178.0,93.73,Race/Ethnicity: All other races,580011: Griswold School District
 41,91.64,37.0,91.92,42.0,94.38,Race/Ethnicity: Black or African American,580011: Griswold School District
@@ -478,7 +425,6 @@
 748,89.31,658.0,82.99,713.0,92.39,Students With Disabilities: Students With Disabilities,590011: Groton School District
 1499,89.19,1535.0,81.45,1521.0,93.04,Free/Reduced Lunch: Free Meal Eligible,590011: Groton School District
 498,92.18,465.0,87.22,411.0,94.25,Free/Reduced Lunch: Reduced Price Meal Eligible,590011: Groton School District
-1997,89.93,2000.0,82.79,1932.0,93.3,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,590011: Groton School District
 176,91.17,137.0,83.95,168.0,93.26,English Learners: English Learners,590011: Groton School District
 840,91.4,709.0,87.66,691.0,94.51,Race/Ethnicity: All other races,590011: Groton School District
 304,90.74,286.0,82.66,322.0,94.32,Race/Ethnicity: Black or African American,590011: Groton School District
@@ -489,7 +435,6 @@
 380,91.61,365.0,95.24,383.0,94.5,Students With Disabilities: Students With Disabilities,600011: Guilford School District
 263,91.01,295.0,95.35,330.0,94.25,Free/Reduced Lunch: Free Meal Eligible,600011: Guilford School District
 109,91.41,99.0,95.71,96.0,95.13,Free/Reduced Lunch: Reduced Price Meal Eligible,600011: Guilford School District
-372,91.13,394.0,95.44,426.0,94.45,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,600011: Guilford School District
 45,94.88,57.0,97.61,69.0,95.54,English Learners: English Learners,600011: Guilford School District
 322,94.77,294.0,97.84,281.0,96.32,Race/Ethnicity: All other races,600011: Guilford School District
 37,92.64,39.0,97.6,34.0,95.31,Race/Ethnicity: Black or African American,600011: Guilford School District
@@ -500,7 +445,6 @@
 900,87.45,927.0,84.13,967.0,92.21,Students With Disabilities: Students With Disabilities,620011: Hamden School District
 1738,87.28,1827.0,84.73,2185.0,92.85,Free/Reduced Lunch: Free Meal Eligible,620011: Hamden School District
 391,90.8,458.0,90.06,364.0,95.16,Free/Reduced Lunch: Reduced Price Meal Eligible,620011: Hamden School District
-2129,87.92,2285.0,85.81,2549.0,93.19,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,620011: Hamden School District
 340,91.11,308.0,89.25,368.0,94.09,English Learners: English Learners,620011: Hamden School District
 686,91.65,680.0,92.62,699.0,95.39,Race/Ethnicity: All other races,620011: Hamden School District
 1718,88.71,1638.0,86.54,1650.0,94.18,Race/Ethnicity: Black or African American,620011: Hamden School District
@@ -515,7 +459,6 @@
 3227,81.47,3160.0,77.92,3614.0,87.01,Students With Disabilities: Students With Disabilities,640011: Hartford School District
 12011,84.2,12281.0,81.22,14146.0,89.94,Free/Reduced Lunch: Free Meal Eligible,640011: Hartford School District
 434,91.08,393.0,91.19,415.0,94.63,Free/Reduced Lunch: Reduced Price Meal Eligible,640011: Hartford School District
-12445,84.44,12674.0,81.53,14561.0,90.08,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,640011: Hartford School District
 3591,84.84,3572.0,80.88,4054.0,90.03,English Learners: English Learners,640011: Hartford School District
 1033,89.71,1031.0,91.26,1023.0,93.09,Race/Ethnicity: All other races,640011: Hartford School District
 4852,86.94,4486.0,83.74,5204.0,91.52,Race/Ethnicity: Black or African American,640011: Hartford School District
@@ -524,27 +467,23 @@
 2305,91.48,1972.0,93.84,2075.0,95.3,High Needs: Students Without High Needs,640011: Hartford School District
 13351,84.69,13371.0,81.85,15269.0,90.2,High Needs: Students With High Needs,640011: Hartford School District
 29,92.67,32.0,87.98,31.0,95.33,Students With Disabilities: Students With Disabilities,650011: Hartland School District
-26,93.17,26.0,85.34,30.0,94.89,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,650011: Hartland School District
 109,93.85,122.0,90.96,128.0,95.42,Race/Ethnicity: White,650011: Hartland School District
 86,94.42,93.0,92.44,96.0,95.87,High Needs: Students Without High Needs,650011: Hartland School District
 43,92.72,46.0,87.33,52.0,94.69,High Needs: Students With High Needs,650011: Hartland School District
 65,95.02,67.0,96.62,71.0,94.94,Students With Disabilities: Students With Disabilities,670011: Hebron School District
 75,94.48,74.0,96.23,,,Free/Reduced Lunch: Free Meal Eligible,670011: Hebron School District
 28,94.07,21.0,95.95,,,Free/Reduced Lunch: Reduced Price Meal Eligible,670011: Hebron School District
-103,94.37,95.0,96.17,91.0,94.88,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,670011: Hebron School District
 35,93.77,30.0,94.61,23.0,95.54,Race/Ethnicity: Hispanic/Latino of any race,670011: Hebron School District
 563,95.37,543.0,97.19,544.0,95.83,Race/Ethnicity: White,670011: Hebron School District
 476,95.57,454.0,97.29,452.0,96.06,High Needs: Students Without High Needs,670011: Hebron School District
 149,94.62,142.0,96.45,141.0,95.19,High Needs: Students With High Needs,670011: Hebron School District
 21,92.67,,,,,Students With Disabilities: Students With Disabilities,680011: Kent School District
-43,91.93,40.0,95.72,45.0,94.79,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,680011: Kent School District
 166,94.67,155.0,96.71,159.0,95.52,Race/Ethnicity: White,680011: Kent School District
 139,95.37,136.0,97.05,133.0,95.93,High Needs: Students Without High Needs,680011: Kent School District
 55,92.44,51.0,95.53,57.0,94.98,High Needs: Students With High Needs,680011: Kent School District
 388,88.49,357.0,85.92,383.0,91.54,Students With Disabilities: Students With Disabilities,690011: Killingly School District
 847,88.25,841.0,85.01,1031.0,92.39,Free/Reduced Lunch: Free Meal Eligible,690011: Killingly School District
 149,91.07,157.0,89.01,168.0,93.88,Free/Reduced Lunch: Reduced Price Meal Eligible,690011: Killingly School District
-996,88.67,998.0,85.65,1199.0,92.6,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,690011: Killingly School District
 60,90.96,63.0,88.47,59.0,93.93,English Learners: English Learners,690011: Killingly School District
 214,90.93,212.0,88.25,213.0,94.11,Race/Ethnicity: All other races,690011: Killingly School District
 35,91.91,37.0,88.24,51.0,92.98,Race/Ethnicity: Black or African American,690011: Killingly School District
@@ -555,7 +494,6 @@
 146,92.21,153.0,93.84,166.0,94.19,Students With Disabilities: Students With Disabilities,710011: Lebanon School District
 202,92.27,210.0,93.97,230.0,94.09,Free/Reduced Lunch: Free Meal Eligible,710011: Lebanon School District
 40,92.62,42.0,96.21,60.0,95.37,Free/Reduced Lunch: Reduced Price Meal Eligible,710011: Lebanon School District
-242,92.33,252.0,94.34,290.0,94.36,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,710011: Lebanon School District
 66,93.62,61.0,95.49,52.0,95.34,Race/Ethnicity: Hispanic/Latino of any race,710011: Lebanon School District
 776,94.04,787.0,96.39,831.0,95.31,Race/Ethnicity: White,710011: Lebanon School District
 557,94.64,543.0,97.2,553.0,95.88,High Needs: Students Without High Needs,710011: Lebanon School District
@@ -563,7 +501,6 @@
 406,89.64,400.0,82.83,445.0,94.64,Students With Disabilities: Students With Disabilities,720011: Ledyard School District
 376,88.59,470.0,80.68,527.0,94.04,Free/Reduced Lunch: Free Meal Eligible,720011: Ledyard School District
 117,89.55,162.0,82.61,177.0,95.07,Free/Reduced Lunch: Reduced Price Meal Eligible,720011: Ledyard School District
-493,88.81,632.0,81.18,704.0,94.31,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,720011: Ledyard School District
 37,91.77,30.0,87.52,37.0,95.43,English Learners: English Learners,720011: Ledyard School District
 306,90.2,282.0,82.39,279.0,94.86,Race/Ethnicity: All other races,720011: Ledyard School District
 110,88.9,109.0,84.14,125.0,95.11,Race/Ethnicity: Black or African American,720011: Ledyard School District
@@ -572,7 +509,6 @@
 1587,92.09,1360.0,86.38,1355.0,95.85,High Needs: Students Without High Needs,720011: Ledyard School District
 787,89.37,891.0,81.96,986.0,94.47,High Needs: Students With High Needs,720011: Ledyard School District
 62,91.06,60.0,93.59,60.0,94.6,Students With Disabilities: Students With Disabilities,730011: Lisbon School District
-132,91.45,155.0,93.91,143.0,95.6,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,730011: Lisbon School District
 44,89.9,53.0,92.77,44.0,94.67,Race/Ethnicity: Hispanic/Latino of any race,730011: Lisbon School District
 303,92.34,304.0,95.1,302.0,96.2,Race/Ethnicity: White,730011: Lisbon School District
 203,92.79,205.0,95.42,215.0,96.48,High Needs: Students Without High Needs,730011: Lisbon School District
@@ -580,7 +516,6 @@
 141,89.96,133.0,93.44,142.0,93.63,Students With Disabilities: Students With Disabilities,740011: Litchfield School District
 103,90.88,115.0,93.44,142.0,94.91,Free/Reduced Lunch: Free Meal Eligible,740011: Litchfield School District
 28,92.48,30.0,94.76,46.0,95.43,Free/Reduced Lunch: Reduced Price Meal Eligible,740011: Litchfield School District
-131,91.22,145.0,93.72,188.0,95.04,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,740011: Litchfield School District
 59,91.07,50.0,94.25,44.0,94.82,Race/Ethnicity: Hispanic/Latino of any race,740011: Litchfield School District
 706,93.14,716.0,95.06,748.0,95.89,Race/Ethnicity: White,740011: Litchfield School District
 562,93.69,545.0,95.4,547.0,96.46,High Needs: Students Without High Needs,740011: Litchfield School District
@@ -588,7 +523,6 @@
 339,95.27,362.0,96.74,380.0,95.92,Students With Disabilities: Students With Disabilities,760011: Madison School District
 66,93.9,66.0,95.36,66.0,94.98,Free/Reduced Lunch: Free Meal Eligible,760011: Madison School District
 23,96.26,25.0,94.2,26.0,95.86,Free/Reduced Lunch: Reduced Price Meal Eligible,760011: Madison School District
-89,94.51,91.0,95.03,92.0,95.23,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,760011: Madison School District
 39,95.75,34.0,96.82,38.0,95.83,English Learners: English Learners,760011: Madison School District
 183,96.93,187.0,97.96,211.0,96.68,Race/Ethnicity: All other races,760011: Madison School District
 2058,95.85,2130.0,97.55,2230.0,96.2,Race/Ethnicity: White,760011: Madison School District
@@ -597,7 +531,6 @@
 959,84.46,882.0,83.29,959.0,91.03,Students With Disabilities: Students With Disabilities,770011: Manchester School District
 2922,85.77,2747.0,84.65,3311.0,91.86,Free/Reduced Lunch: Free Meal Eligible,770011: Manchester School District
 497,90.05,415.0,89.63,423.0,94.69,Free/Reduced Lunch: Reduced Price Meal Eligible,770011: Manchester School District
-3419,86.39,3162.0,85.32,3734.0,92.19,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,770011: Manchester School District
 461,88.5,405.0,87.8,455.0,91.95,English Learners: English Learners,770011: Manchester School District
 661,89.82,605.0,91.85,680.0,93.48,Race/Ethnicity: All other races,770011: Manchester School District
 1492,88.95,1359.0,87.62,1514.0,93.78,Race/Ethnicity: Black or African American,770011: Manchester School District
@@ -608,7 +541,6 @@
 131,90.99,118.0,93.8,138.0,94.7,Students With Disabilities: Students With Disabilities,780011: Mansfield School District
 232,90.57,244.0,92.89,302.0,94.61,Free/Reduced Lunch: Free Meal Eligible,780011: Mansfield School District
 30,94.74,55.0,95.36,42.0,95.9,Free/Reduced Lunch: Reduced Price Meal Eligible,780011: Mansfield School District
-262,91.05,299.0,93.34,344.0,94.77,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,780011: Mansfield School District
 47,93.71,37.0,95.84,63.0,96.64,English Learners: English Learners,780011: Mansfield School District
 152,95.67,165.0,97.54,196.0,96.52,Race/Ethnicity: All other races,780011: Mansfield School District
 32,93.64,33.0,93.07,31.0,94.31,Race/Ethnicity: Black or African American,780011: Mansfield School District
@@ -617,7 +549,6 @@
 574,94.78,587.0,96.91,631.0,96.08,High Needs: Students Without High Needs,780011: Mansfield School District
 352,91.65,373.0,93.97,444.0,95.06,High Needs: Students With High Needs,780011: Mansfield School District
 46,94.5,49.0,94.67,55.0,95.63,Students With Disabilities: Students With Disabilities,790011: Marlborough School District
-71,93.65,64.0,93.82,66.0,95.36,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,790011: Marlborough School District
 39,94.35,29.0,93.01,29.0,96.31,Race/Ethnicity: Hispanic/Latino of any race,790011: Marlborough School District
 382,94.73,379.0,95.5,369.0,95.71,Race/Ethnicity: White,790011: Marlborough School District
 334,94.8,323.0,95.67,316.0,95.82,High Needs: Students Without High Needs,790011: Marlborough School District
@@ -625,7 +556,6 @@
 1663,88.45,1555.0,89.76,1630.0,92.44,Students With Disabilities: Students With Disabilities,800011: Meriden School District
 5968,90.28,5267.0,91.68,5366.0,93.79,Free/Reduced Lunch: Free Meal Eligible,800011: Meriden School District
 984,93.11,837.0,95.28,901.0,95.88,Free/Reduced Lunch: Reduced Price Meal Eligible,800011: Meriden School District
-6952,90.68,6104.0,92.18,6267.0,94.1,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,800011: Meriden School District
 1394,90.6,1277.0,92.42,1389.0,94.2,English Learners: English Learners,800011: Meriden School District
 543,92.26,497.0,94.48,516.0,95.33,Race/Ethnicity: All other races,800011: Meriden School District
 956,91.24,899.0,92.95,841.0,95.21,Race/Ethnicity: Black or African American,800011: Meriden School District
@@ -637,7 +567,6 @@
 596,86.06,583.0,87.09,606.0,92.48,Students With Disabilities: Students With Disabilities,830011: Middletown School District
 1394,86.7,1678.0,88.05,1933.0,93.03,Free/Reduced Lunch: Free Meal Eligible,830011: Middletown School District
 226,87.98,267.0,91.08,228.0,94.97,Free/Reduced Lunch: Reduced Price Meal Eligible,830011: Middletown School District
-1620,86.88,1945.0,88.47,2161.0,93.24,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,830011: Middletown School District
 189,89.83,155.0,89.74,183.0,94.35,English Learners: English Learners,830011: Middletown School District
 703,90.26,680.0,93.17,635.0,94.96,Race/Ethnicity: All other races,830011: Middletown School District
 954,87.55,886.0,89.07,907.0,93.99,Race/Ethnicity: Black or African American,830011: Middletown School District
@@ -648,7 +577,6 @@
 784,89.46,780.0,91.12,817.0,92.56,Students With Disabilities: Students With Disabilities,840011: Milford School District
 1113,90.21,1205.0,90.99,1292.0,93.47,Free/Reduced Lunch: Free Meal Eligible,840011: Milford School District
 282,91.56,293.0,92.9,233.0,95.16,Free/Reduced Lunch: Reduced Price Meal Eligible,840011: Milford School District
-1395,90.49,1498.0,91.37,1525.0,93.74,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,840011: Milford School District
 121,93.41,124.0,93.87,155.0,94.46,English Learners: English Learners,840011: Milford School District
 658,93.36,642.0,95.36,651.0,95.59,Race/Ethnicity: All other races,840011: Milford School District
 254,91.36,252.0,90.95,253.0,94.9,Race/Ethnicity: Black or African American,840011: Milford School District
@@ -659,7 +587,6 @@
 446,93.63,396.0,96.7,405.0,94.62,Students With Disabilities: Students With Disabilities,850011: Monroe School District
 262,92.55,259.0,95.76,279.0,94.56,Free/Reduced Lunch: Free Meal Eligible,850011: Monroe School District
 75,93.95,84.0,95.9,61.0,95.1,Free/Reduced Lunch: Reduced Price Meal Eligible,850011: Monroe School District
-337,92.86,343.0,95.8,340.0,94.66,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,850011: Monroe School District
 43,95.14,37.0,96.61,33.0,96.15,English Learners: English Learners,850011: Monroe School District
 315,95.32,305.0,97.79,280.0,96.75,Race/Ethnicity: All other races,850011: Monroe School District
 102,95.88,76.0,97.73,66.0,96.9,Race/Ethnicity: Black or African American,850011: Monroe School District
@@ -670,7 +597,6 @@
 351,87.99,325.0,88.39,364.0,94.18,Students With Disabilities: Students With Disabilities,860011: Montville School District
 648,89.93,677.0,88.09,749.0,94.05,Free/Reduced Lunch: Free Meal Eligible,860011: Montville School District
 175,92.84,197.0,91.28,173.0,96.07,Free/Reduced Lunch: Reduced Price Meal Eligible,860011: Montville School District
-823,90.56,874.0,88.82,922.0,94.43,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,860011: Montville School District
 89,93.06,91.0,91.71,101.0,96.51,English Learners: English Learners,860011: Montville School District
 389,92.77,404.0,92.72,422.0,96.4,Race/Ethnicity: All other races,860011: Montville School District
 86,92.25,69.0,90.41,66.0,97.24,Race/Ethnicity: Black or African American,860011: Montville School District
@@ -681,7 +607,6 @@
 719,90.57,721.0,89.71,765.0,91.15,Students With Disabilities: Students With Disabilities,880011: Naugatuck School District
 1839,89.92,2097.0,89.46,2028.0,92.57,Free/Reduced Lunch: Free Meal Eligible,880011: Naugatuck School District
 372,92.51,235.0,93.19,240.0,94.17,Free/Reduced Lunch: Reduced Price Meal Eligible,880011: Naugatuck School District
-2211,90.35,2332.0,89.83,2268.0,92.74,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,880011: Naugatuck School District
 347,91.04,309.0,90.12,335.0,94.67,English Learners: English Learners,880011: Naugatuck School District
 342,92.77,345.0,92.48,370.0,94.39,Race/Ethnicity: All other races,880011: Naugatuck School District
 466,92.4,410.0,91.18,394.0,94.61,Race/Ethnicity: Black or African American,880011: Naugatuck School District
@@ -693,7 +618,6 @@
 1889,83.15,1916.0,83.75,2021.0,90.11,Students With Disabilities: Students With Disabilities,890011: New Britain School District
 6030,85.11,6098.0,85.64,7795.0,91.99,Free/Reduced Lunch: Free Meal Eligible,890011: New Britain School District
 755,88.66,749.0,90.14,561.0,94.51,Free/Reduced Lunch: Reduced Price Meal Eligible,890011: New Britain School District
-6785,85.5,6847.0,86.14,8356.0,92.16,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,890011: New Britain School District
 1558,85.45,1576.0,86.8,1782.0,91.34,English Learners: English Learners,890011: New Britain School District
 613,89.98,573.0,91.36,567.0,94.16,Race/Ethnicity: All other races,890011: New Britain School District
 1016,88.05,1026.0,88.36,1081.0,93.4,Race/Ethnicity: Black or African American,890011: New Britain School District
@@ -712,7 +636,6 @@
 316,91.08,308.0,94.18,328.0,93.48,Students With Disabilities: Students With Disabilities,910011: New Fairfield School District
 187,90.1,206.0,93.84,264.0,93.29,Free/Reduced Lunch: Free Meal Eligible,910011: New Fairfield School District
 73,92.6,69.0,93.3,78.0,93.8,Free/Reduced Lunch: Reduced Price Meal Eligible,910011: New Fairfield School District
-260,90.8,275.0,93.71,342.0,93.41,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,910011: New Fairfield School District
 84,91.05,79.0,94.85,86.0,94.51,English Learners: English Learners,910011: New Fairfield School District
 98,93.3,97.0,96.78,85.0,95.38,Race/Ethnicity: All other races,910011: New Fairfield School District
 45,93.23,29.0,96.75,31.0,95.06,Race/Ethnicity: Black or African American,910011: New Fairfield School District
@@ -721,7 +644,6 @@
 1491,93.43,1484.0,96.46,1483.0,94.99,High Needs: Students Without High Needs,910011: New Fairfield School District
 557,91.36,568.0,94.42,638.0,93.71,High Needs: Students With High Needs,910011: New Fairfield School District
 63,94.2,57.0,96.59,66.0,95.25,Students With Disabilities: Students With Disabilities,920011: New Hartford School District
-79,92.81,79.0,95.02,80.0,94.29,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,920011: New Hartford School District
 28,93.46,,,,,Race/Ethnicity: Hispanic/Latino of any race,920011: New Hartford School District
 381,94.29,374.0,97.16,392.0,95.7,Race/Ethnicity: White,920011: New Hartford School District
 292,94.67,280.0,97.7,291.0,96.07,High Needs: Students Without High Needs,920011: New Hartford School District
@@ -730,7 +652,6 @@
 2708,79.11,2876.0,77.5,3116.0,90.05,Students With Disabilities: Students With Disabilities,930011: New Haven School District
 10661,82.01,11614.0,80.52,12912.0,91.78,Free/Reduced Lunch: Free Meal Eligible,930011: New Haven School District
 1467,86.64,1322.0,88.75,945.0,94.5,Free/Reduced Lunch: Reduced Price Meal Eligible,930011: New Haven School District
-12128,82.57,12936.0,81.37,13857.0,91.97,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,930011: New Haven School District
 3569,86.06,3398.0,85.73,3716.0,93.76,English Learners: English Learners,930011: New Haven School District
 1101,86.23,941.0,87.64,923.0,94.67,Race/Ethnicity: All other races,930011: New Haven School District
 6203,82.05,6573.0,80.32,6929.0,92.06,Race/Ethnicity: Black or African American,930011: New Haven School District
@@ -741,7 +662,6 @@
 572,92.15,553.0,94.36,556.0,94.05,Students With Disabilities: Students With Disabilities,940011: Newington School District
 981,91.57,953.0,93.74,1050.0,94.24,Free/Reduced Lunch: Free Meal Eligible,940011: Newington School District
 284,93.67,333.0,96.06,232.0,95.26,Free/Reduced Lunch: Reduced Price Meal Eligible,940011: Newington School District
-1265,92.04,1286.0,94.35,1282.0,94.43,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,940011: Newington School District
 308,93.71,272.0,95.34,258.0,95.78,English Learners: English Learners,940011: Newington School District
 563,95.1,570.0,97.34,589.0,96.47,Race/Ethnicity: All other races,940011: Newington School District
 220,94.25,233.0,95.75,240.0,96.14,Race/Ethnicity: Black or African American,940011: Newington School District
@@ -753,7 +673,6 @@
 542,84.06,576.0,84.01,604.0,91.99,Students With Disabilities: Students With Disabilities,950011: New London School District
 2323,87.78,2265.0,85.15,2476.0,93.64,Free/Reduced Lunch: Free Meal Eligible,950011: New London School District
 184,92.22,321.0,89.68,299.0,95.54,Free/Reduced Lunch: Reduced Price Meal Eligible,950011: New London School District
-2507,88.1,2586.0,85.71,2775.0,93.85,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,950011: New London School District
 768,88.54,780.0,84.87,827.0,93.94,English Learners: English Learners,950011: New London School District
 434,89.76,459.0,87.04,454.0,94.2,Race/Ethnicity: All other races,950011: New London School District
 507,90.54,581.0,87.9,593.0,95.51,Race/Ethnicity: Black or African American,950011: New London School District
@@ -764,7 +683,6 @@
 540,88.97,544.0,90.59,566.0,94.35,Students With Disabilities: Students With Disabilities,960011: New Milford School District
 894,89.33,989.0,90.05,1088.0,94.38,Free/Reduced Lunch: Free Meal Eligible,960011: New Milford School District
 254,91.6,331.0,92.39,252.0,95.55,Free/Reduced Lunch: Reduced Price Meal Eligible,960011: New Milford School District
-1148,89.82,1320.0,90.64,1340.0,94.6,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,960011: New Milford School District
 214,91.51,185.0,91.6,195.0,95.12,English Learners: English Learners,960011: New Milford School District
 267,92.72,272.0,94.66,273.0,96.9,Race/Ethnicity: All other races,960011: New Milford School District
 116,91.93,118.0,93.43,109.0,96.62,Race/Ethnicity: Black or African American,960011: New Milford School District
@@ -775,7 +693,6 @@
 578,93.4,547.0,94.75,556.0,94.59,Students With Disabilities: Students With Disabilities,970011: Newtown School District
 377,92.57,426.0,94.84,446.0,94.7,Free/Reduced Lunch: Free Meal Eligible,970011: Newtown School District
 120,93.59,143.0,94.85,125.0,95.26,Free/Reduced Lunch: Reduced Price Meal Eligible,970011: Newtown School District
-497,92.81,569.0,94.84,571.0,94.83,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,970011: Newtown School District
 45,95.31,25.0,94.25,23.0,94.2,English Learners: English Learners,970011: Newtown School District
 184,95.06,194.0,96.9,210.0,96.57,Race/Ethnicity: All other races,970011: Newtown School District
 85,95.32,68.0,97.69,66.0,96.77,Race/Ethnicity: Black or African American,970011: Newtown School District
@@ -783,14 +700,12 @@
 3295,94.71,3357.0,96.67,3475.0,95.85,Race/Ethnicity: White,970011: Newtown School District
 2981,95.1,2976.0,97.16,3115.0,96.18,High Needs: Students Without High Needs,970011: Newtown School District
 969,93.36,982.0,95.03,985.0,94.98,High Needs: Students With High Needs,970011: Newtown School District
-20,93.13,21.0,94.22,26.0,95.28,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,980011: Norfolk School District
 59,93.89,61.0,95.45,59.0,96.49,Race/Ethnicity: White,980011: Norfolk School District
 40,94.55,45.0,96.13,35.0,97.81,High Needs: Students Without High Needs,980011: Norfolk School District
 25,92.62,27.0,94.39,33.0,94.96,High Needs: Students With High Needs,980011: Norfolk School District
 229,92.41,227.0,94.67,253.0,93.95,Students With Disabilities: Students With Disabilities,990011: North Branford School District
 240,92.04,289.0,93.49,298.0,94.29,Free/Reduced Lunch: Free Meal Eligible,990011: North Branford School District
 52,92.47,93.0,95.3,86.0,94.78,Free/Reduced Lunch: Reduced Price Meal Eligible,990011: North Branford School District
-292,92.12,382.0,93.93,384.0,94.4,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,990011: North Branford School District
 56,95.09,63.0,95.91,57.0,95.26,Race/Ethnicity: All other races,990011: North Branford School District
 22,93.5,25.0,87.49,28.0,95.78,Race/Ethnicity: Black or African American,990011: North Branford School District
 141,92.52,133.0,94.24,129.0,94.67,Race/Ethnicity: Hispanic/Latino of any race,990011: North Branford School District
@@ -798,7 +713,6 @@
 1069,93.96,1029.0,96.14,1086.0,95.52,High Needs: Students Without High Needs,990011: North Branford School District
 462,92.43,536.0,94.39,556.0,94.24,High Needs: Students With High Needs,990011: North Branford School District
 24,92.99,36.0,93.4,37.0,93.47,Students With Disabilities: Students With Disabilities,1000011: North Canaan School District
-82,93.75,116.0,94.96,128.0,94.8,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1000011: North Canaan School District
 30,93.31,29.0,96.03,34.0,95.97,Race/Ethnicity: Hispanic/Latino of any race,1000011: North Canaan School District
 176,94.28,198.0,96.3,199.0,95.07,Race/Ethnicity: White,1000011: North Canaan School District
 115,94.48,105.0,97.42,103.0,95.5,High Needs: Students Without High Needs,1000011: North Canaan School District
@@ -806,7 +720,6 @@
 372,92.09,355.0,93.51,368.0,93.1,Students With Disabilities: Students With Disabilities,1010011: North Haven School District
 510,92.38,494.0,94.3,510.0,93.64,Free/Reduced Lunch: Free Meal Eligible,1010011: North Haven School District
 151,92.88,153.0,94.33,119.0,94.55,Free/Reduced Lunch: Reduced Price Meal Eligible,1010011: North Haven School District
-661,92.5,647.0,94.31,629.0,93.81,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1010011: North Haven School District
 139,94.3,111.0,96.34,101.0,96.12,English Learners: English Learners,1010011: North Haven School District
 304,95.37,352.0,97.43,340.0,96.02,Race/Ethnicity: All other races,1010011: North Haven School District
 157,94.29,147.0,96.09,138.0,95.89,Race/Ethnicity: Black or African American,1010011: North Haven School District
@@ -817,7 +730,6 @@
 74,93.9,64.0,92.13,69.0,93.09,Students With Disabilities: Students With Disabilities,1020011: North Stonington School District
 109,92.84,129.0,91.04,121.0,94.23,Free/Reduced Lunch: Free Meal Eligible,1020011: North Stonington School District
 42,91.91,28.0,92.38,43.0,94.11,Free/Reduced Lunch: Reduced Price Meal Eligible,1020011: North Stonington School District
-151,92.58,157.0,91.28,164.0,94.2,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1020011: North Stonington School District
 35,91.16,,,43.0,95.59,Race/Ethnicity: All other races,1020011: North Stonington School District
 655,94.29,622.0,94.28,618.0,95.46,Race/Ethnicity: White,1020011: North Stonington School District
 537,94.54,501.0,95.22,497.0,95.94,High Needs: Students Without High Needs,1020011: North Stonington School District
@@ -826,7 +738,6 @@
 1721,88.35,1586.0,89.77,1623.0,93.25,Students With Disabilities: Students With Disabilities,1030011: Norwalk School District
 5372,89.59,5591.0,90.37,5950.0,93.86,Free/Reduced Lunch: Free Meal Eligible,1030011: Norwalk School District
 1163,91.55,1186.0,92.04,991.0,95.03,Free/Reduced Lunch: Reduced Price Meal Eligible,1030011: Norwalk School District
-6535,89.94,6777.0,90.66,6941.0,94.03,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1030011: Norwalk School District
 2161,89.99,1896.0,89.93,2153.0,93.77,English Learners: English Learners,1030011: Norwalk School District
 913,91.93,840.0,94.98,850.0,95.23,Race/Ethnicity: All other races,1030011: Norwalk School District
 1768,89.95,1644.0,90.26,1721.0,94.33,Race/Ethnicity: Black or African American,1030011: Norwalk School District
@@ -837,7 +748,6 @@
 570,89.88,580.0,90.8,622.0,91.87,Students With Disabilities: Students With Disabilities,1040011: Norwich School District
 1598,91.7,1913.0,92.44,1962.0,94.52,Free/Reduced Lunch: Free Meal Eligible,1040011: Norwich School District
 266,94.3,316.0,95.61,184.0,96.35,Free/Reduced Lunch: Reduced Price Meal Eligible,1040011: Norwich School District
-1864,92.07,2229.0,92.89,2146.0,94.68,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1040011: Norwich School District
 603,92.76,591.0,94.28,665.0,95.66,English Learners: English Learners,1040011: Norwich School District
 533,92.98,592.0,94.0,568.0,95.55,Race/Ethnicity: All other races,1040011: Norwich School District
 594,93.48,586.0,93.97,599.0,95.52,Race/Ethnicity: Black or African American,1040011: Norwich School District
@@ -848,7 +758,6 @@
 157,93.32,152.0,97.54,169.0,93.21,Students With Disabilities: Students With Disabilities,1060011: Old Saybrook School District
 200,93.39,200.0,97.32,226.0,93.52,Free/Reduced Lunch: Free Meal Eligible,1060011: Old Saybrook School District
 63,94.47,68.0,98.09,68.0,93.88,Free/Reduced Lunch: Reduced Price Meal Eligible,1060011: Old Saybrook School District
-263,93.65,268.0,97.51,294.0,93.6,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1060011: Old Saybrook School District
 82,95.55,69.0,97.7,66.0,96.05,English Learners: English Learners,1060011: Old Saybrook School District
 143,95.05,139.0,97.82,136.0,94.61,Race/Ethnicity: Hispanic/Latino of any race,1060011: Old Saybrook School District
 789,94.66,826.0,98.06,916.0,94.11,Race/Ethnicity: White,1060011: Old Saybrook School District
@@ -857,7 +766,6 @@
 110,94.44,110.0,96.02,110.0,95.36,Students With Disabilities: Students With Disabilities,1070011: Orange School District
 128,93.16,129.0,94.98,138.0,94.83,Free/Reduced Lunch: Free Meal Eligible,1070011: Orange School District
 39,94.44,48.0,95.39,32.0,94.35,Free/Reduced Lunch: Reduced Price Meal Eligible,1070011: Orange School District
-167,93.46,177.0,95.09,170.0,94.74,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1070011: Orange School District
 67,93.08,64.0,94.44,75.0,95.52,English Learners: English Learners,1070011: Orange School District
 228,94.41,225.0,96.09,224.0,96.07,Race/Ethnicity: All other races,1070011: Orange School District
 31,94.93,27.0,96.06,23.0,96.46,Race/Ethnicity: Black or African American,1070011: Orange School District
@@ -868,7 +776,6 @@
 222,94.1,192.0,94.25,198.0,94.85,Students With Disabilities: Students With Disabilities,1080011: Oxford School District
 191,91.5,171.0,89.75,207.0,92.11,Free/Reduced Lunch: Free Meal Eligible,1080011: Oxford School District
 34,92.12,39.0,94.71,39.0,94.75,Free/Reduced Lunch: Reduced Price Meal Eligible,1080011: Oxford School District
-225,91.59,210.0,90.67,246.0,92.53,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1080011: Oxford School District
 39,94.58,40.0,95.66,51.0,94.39,English Learners: English Learners,1080011: Oxford School District
 67,94.77,67.0,95.64,69.0,94.52,Race/Ethnicity: All other races,1080011: Oxford School District
 32,93.16,28.0,90.17,22.0,94.93,Race/Ethnicity: Black or African American,1080011: Oxford School District
@@ -879,7 +786,6 @@
 319,89.5,312.0,87.67,345.0,92.49,Students With Disabilities: Students With Disabilities,1090011: Plainfield School District
 848,89.85,839.0,87.57,990.0,93.16,Free/Reduced Lunch: Free Meal Eligible,1090011: Plainfield School District
 188,92.47,233.0,91.48,183.0,93.76,Free/Reduced Lunch: Reduced Price Meal Eligible,1090011: Plainfield School District
-1036,90.32,1072.0,88.43,1173.0,93.26,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1090011: Plainfield School District
 31,90.63,34.0,86.21,37.0,92.16,English Learners: English Learners,1090011: Plainfield School District
 89,88.5,88.0,91.05,84.0,94.03,Race/Ethnicity: All other races,1090011: Plainfield School District
 66,92.47,86.0,92.29,87.0,95.56,Race/Ethnicity: Black or African American,1090011: Plainfield School District
@@ -890,7 +796,6 @@
 304,89.5,292.0,89.98,301.0,93.16,Students With Disabilities: Students With Disabilities,1100011: Plainville School District
 670,90.2,668.0,91.0,727.0,93.85,Free/Reduced Lunch: Free Meal Eligible,1100011: Plainville School District
 210,91.82,220.0,93.24,165.0,94.68,Free/Reduced Lunch: Reduced Price Meal Eligible,1100011: Plainville School District
-880,90.59,888.0,91.56,892.0,94.01,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1100011: Plainville School District
 156,91.06,171.0,91.75,166.0,95.37,English Learners: English Learners,1100011: Plainville School District
 166,93.59,166.0,93.92,175.0,95.44,Race/Ethnicity: All other races,1100011: Plainville School District
 118,91.62,105.0,91.36,102.0,94.72,Race/Ethnicity: Black or African American,1100011: Plainville School District
@@ -901,21 +806,18 @@
 246,87.11,213.0,85.78,233.0,91.21,Students With Disabilities: Students With Disabilities,1110011: Plymouth School District
 409,87.32,416.0,86.22,488.0,92.47,Free/Reduced Lunch: Free Meal Eligible,1110011: Plymouth School District
 111,89.92,131.0,90.49,112.0,93.85,Free/Reduced Lunch: Reduced Price Meal Eligible,1110011: Plymouth School District
-520,87.87,547.0,87.23,600.0,92.74,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1110011: Plymouth School District
 23,91.48,24.0,87.3,23.0,93.68,English Learners: English Learners,1110011: Plymouth School District
 181,89.03,158.0,86.51,153.0,92.68,Race/Ethnicity: Hispanic/Latino of any race,1110011: Plymouth School District
 956,90.53,962.0,90.37,1053.0,94.12,Race/Ethnicity: White,1110011: Plymouth School District
 596,91.98,558.0,92.49,607.0,95.14,High Needs: Students Without High Needs,1110011: Plymouth School District
 634,88.16,632.0,87.38,687.0,92.86,High Needs: Students With High Needs,1110011: Plymouth School District
 42,93.32,36.0,96.15,37.0,94.87,Students With Disabilities: Students With Disabilities,1120011: Pomfret School District
-69,92.02,71.0,96.23,83.0,95.2,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1120011: Pomfret School District
 328,93.79,313.0,97.56,347.0,95.89,Race/Ethnicity: White,1120011: Pomfret School District
 242,94.33,221.0,98.28,259.0,96.27,High Needs: Students Without High Needs,1120011: Pomfret School District
 99,92.29,98.0,96.33,111.0,95.16,High Needs: Students With High Needs,1120011: Pomfret School District
 197,91.25,180.0,90.28,177.0,92.55,Students With Disabilities: Students With Disabilities,1130011: Portland School District
 248,90.62,286.0,89.7,311.0,93.33,Free/Reduced Lunch: Free Meal Eligible,1130011: Portland School District
 48,92.23,57.0,92.39,53.0,94.11,Free/Reduced Lunch: Reduced Price Meal Eligible,1130011: Portland School District
-296,90.89,343.0,90.15,364.0,93.44,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1130011: Portland School District
 44,93.23,40.0,91.61,44.0,94.36,English Learners: English Learners,1130011: Portland School District
 82,93.92,90.0,92.84,94.0,94.85,Race/Ethnicity: All other races,1130011: Portland School District
 41,89.95,39.0,89.3,42.0,93.2,Race/Ethnicity: Black or African American,1130011: Portland School District
@@ -926,7 +828,6 @@
 50,90.92,66.0,93.61,61.0,95.83,Students With Disabilities: Students With Disabilities,1140011: Preston School District
 57,90.27,83.0,92.88,96.0,93.94,Free/Reduced Lunch: Free Meal Eligible,1140011: Preston School District
 25,91.81,30.0,94.74,36.0,94.01,Free/Reduced Lunch: Reduced Price Meal Eligible,1140011: Preston School District
-82,90.73,113.0,93.38,132.0,93.96,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1140011: Preston School District
 33,90.93,,,,,Race/Ethnicity: Hispanic/Latino of any race,1140011: Preston School District
 312,91.26,342.0,95.19,346.0,95.37,Race/Ethnicity: White,1140011: Preston School District
 263,91.64,249.0,96.03,243.0,96.01,High Needs: Students Without High Needs,1140011: Preston School District
@@ -934,7 +835,6 @@
 209,87.01,211.0,87.09,210.0,92.18,Students With Disabilities: Students With Disabilities,1160011: Putnam School District
 425,87.59,542.0,88.32,570.0,93.12,Free/Reduced Lunch: Free Meal Eligible,1160011: Putnam School District
 81,90.07,97.0,87.5,83.0,93.31,Free/Reduced Lunch: Reduced Price Meal Eligible,1160011: Putnam School District
-506,88.0,639.0,88.19,653.0,93.15,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1160011: Putnam School District
 40,88.28,37.0,85.84,44.0,93.5,English Learners: English Learners,1160011: Putnam School District
 73,87.54,,,,,Race/Ethnicity: All other races,1160011: Putnam School District
 20,92.87,,,,,Race/Ethnicity: Black or African American,1160011: Putnam School District
@@ -943,7 +843,6 @@
 406,92.63,294.0,93.9,354.0,95.37,High Needs: Students Without High Needs,1160011: Putnam School District
 611,88.16,706.0,88.49,715.0,93.29,High Needs: Students With High Needs,1160011: Putnam School District
 114,94.26,109.0,96.55,124.0,95.87,Students With Disabilities: Students With Disabilities,1170011: Redding School District
-79,94.98,81.0,96.89,77.0,95.37,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1170011: Redding School District
 86,94.94,91.0,96.37,79.0,95.94,Race/Ethnicity: Hispanic/Latino of any race,1170011: Redding School District
 649,95.05,629.0,97.08,637.0,95.75,Race/Ethnicity: White,1170011: Redding School District
 594,95.25,575.0,97.26,590.0,95.77,High Needs: Students Without High Needs,1170011: Redding School District
@@ -951,7 +850,6 @@
 674,93.05,624.0,96.09,634.0,93.97,Students With Disabilities: Students With Disabilities,1180011: Ridgefield School District
 278,93.04,192.0,96.04,224.0,93.93,Free/Reduced Lunch: Free Meal Eligible,1180011: Ridgefield School District
 74,93.2,52.0,96.18,55.0,94.76,Free/Reduced Lunch: Reduced Price Meal Eligible,1180011: Ridgefield School District
-352,93.07,244.0,96.07,279.0,94.1,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1180011: Ridgefield School District
 59,93.86,49.0,97.13,61.0,94.52,English Learners: English Learners,1180011: Ridgefield School District
 515,95.1,498.0,98.32,506.0,95.76,Race/Ethnicity: All other races,1180011: Ridgefield School District
 33,95.21,29.0,97.23,30.0,95.29,Race/Ethnicity: Black or African American,1180011: Ridgefield School District
@@ -962,7 +860,6 @@
 321,93.34,301.0,94.17,315.0,94.73,Students With Disabilities: Students With Disabilities,1190011: Rocky Hill School District
 427,91.61,376.0,92.13,446.0,94.4,Free/Reduced Lunch: Free Meal Eligible,1190011: Rocky Hill School District
 84,94.11,75.0,94.98,92.0,96.04,Free/Reduced Lunch: Reduced Price Meal Eligible,1190011: Rocky Hill School District
-511,92.01,451.0,92.6,538.0,94.68,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1190011: Rocky Hill School District
 163,94.14,185.0,97.88,214.0,96.55,English Learners: English Learners,1190011: Rocky Hill School District
 798,95.59,846.0,97.77,883.0,96.66,Race/Ethnicity: All other races,1190011: Rocky Hill School District
 86,94.56,87.0,93.81,80.0,95.96,Race/Ethnicity: Black or African American,1190011: Rocky Hill School District
@@ -971,26 +868,22 @@
 1600,95.73,1743.0,97.0,1736.0,96.69,High Needs: Students Without High Needs,1190011: Rocky Hill School District
 818,93.02,771.0,94.28,879.0,95.14,High Needs: Students With High Needs,1190011: Rocky Hill School District
 53,93.89,49.0,94.35,62.0,96.37,Students With Disabilities: Students With Disabilities,1210011: Salem School District
-69,91.55,79.0,93.49,86.0,94.4,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1210011: Salem School District
 31,93.46,,,32.0,95.41,Race/Ethnicity: Hispanic/Latino of any race,1210011: Salem School District
 321,94.47,306.0,95.61,347.0,95.55,Race/Ethnicity: White,1210011: Salem School District
 273,95.02,254.0,96.81,293.0,95.68,High Needs: Students Without High Needs,1210011: Salem School District
 103,92.69,110.0,93.52,121.0,95.11,High Needs: Students With High Needs,1210011: Salem School District
 27,91.6,33.0,96.07,25.0,93.05,Students With Disabilities: Students With Disabilities,1220011: Salisbury School District
-45,92.24,52.0,94.38,59.0,93.19,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1220011: Salisbury School District
 31,93.68,29.0,95.06,,,Race/Ethnicity: Hispanic/Latino of any race,1220011: Salisbury School District
 221,94.04,232.0,96.92,211.0,95.19,Race/Ethnicity: White,1220011: Salisbury School District
 210,94.35,212.0,97.15,187.0,95.84,High Needs: Students Without High Needs,1220011: Salisbury School District
 70,92.77,76.0,95.08,77.0,93.89,High Needs: Students With High Needs,1220011: Salisbury School District
 21,91.03,,,,,Students With Disabilities: Students With Disabilities,1230011: Scotland School District
-32,91.22,28.0,94.44,35.0,96.65,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1230011: Scotland School District
 78,91.52,,,,,Race/Ethnicity: White,1230011: Scotland School District
 39,91.96,40.0,96.18,43.0,96.57,High Needs: Students Without High Needs,1230011: Scotland School District
 46,90.81,40.0,94.57,45.0,96.56,High Needs: Students With High Needs,1230011: Scotland School District
 301,90.81,287.0,91.44,318.0,93.14,Students With Disabilities: Students With Disabilities,1240011: Seymour School District
 586,91.19,636.0,92.13,669.0,93.29,Free/Reduced Lunch: Free Meal Eligible,1240011: Seymour School District
 176,93.23,199.0,95.12,184.0,94.6,Free/Reduced Lunch: Reduced Price Meal Eligible,1240011: Seymour School District
-762,91.67,835.0,92.85,853.0,93.57,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1240011: Seymour School District
 109,92.38,88.0,94.02,85.0,94.66,English Learners: English Learners,1240011: Seymour School District
 117,93.38,122.0,93.01,127.0,94.66,Race/Ethnicity: All other races,1240011: Seymour School District
 143,93.88,116.0,95.41,112.0,95.71,Race/Ethnicity: Black or African American,1240011: Seymour School District
@@ -999,14 +892,12 @@
 1090,94.07,1069.0,96.76,1151.0,96.07,High Needs: Students Without High Needs,1240011: Seymour School District
 948,91.73,994.0,93.05,1024.0,93.74,High Needs: Students With High Needs,1240011: Seymour School District
 22,92.06,23.0,95.89,27.0,95.41,Students With Disabilities: Students With Disabilities,1250011: Sharon School District
-39,92.85,38.0,95.52,39.0,95.78,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1250011: Sharon School District
 85,93.01,83.0,96.09,84.0,95.65,Race/Ethnicity: White,1250011: Sharon School District
 43,93.72,52.0,96.87,47.0,96.27,High Needs: Students Without High Needs,1250011: Sharon School District
 50,91.81,50.0,95.19,49.0,95.31,High Needs: Students With High Needs,1250011: Sharon School District
 638,91.6,612.0,92.56,663.0,94.35,Students With Disabilities: Students With Disabilities,1260011: Shelton School District
 1029,91.75,1046.0,91.43,1175.0,94.25,Free/Reduced Lunch: Free Meal Eligible,1260011: Shelton School District
 265,93.43,313.0,92.97,240.0,94.78,Free/Reduced Lunch: Reduced Price Meal Eligible,1260011: Shelton School District
-1294,92.1,1359.0,91.79,1415.0,94.34,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1260011: Shelton School District
 295,94.27,261.0,93.47,260.0,95.78,English Learners: English Learners,1260011: Shelton School District
 425,94.85,403.0,95.94,411.0,96.31,Race/Ethnicity: All other races,1260011: Shelton School District
 332,94.54,307.0,93.89,323.0,95.65,Race/Ethnicity: Black or African American,1260011: Shelton School District
@@ -1022,7 +913,6 @@
 616,91.7,567.0,95.56,591.0,94.77,Students With Disabilities: Students With Disabilities,1280011: Simsbury School District
 452,91.26,483.0,94.64,423.0,94.46,Free/Reduced Lunch: Free Meal Eligible,1280011: Simsbury School District
 81,93.35,142.0,96.75,160.0,95.69,Free/Reduced Lunch: Reduced Price Meal Eligible,1280011: Simsbury School District
-533,91.58,625.0,95.12,583.0,94.8,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1280011: Simsbury School District
 70,92.89,62.0,94.98,80.0,95.44,English Learners: English Learners,1280011: Simsbury School District
 473,95.03,460.0,98.09,464.0,96.02,Race/Ethnicity: All other races,1280011: Simsbury School District
 240,92.28,230.0,94.68,231.0,95.62,Race/Ethnicity: Black or African American,1280011: Simsbury School District
@@ -1031,7 +921,6 @@
 2978,94.89,2881.0,98.03,2964.0,95.99,High Needs: Students Without High Needs,1280011: Simsbury School District
 1040,92.07,1071.0,95.67,1071.0,94.94,High Needs: Students With High Needs,1280011: Simsbury School District
 202,93.11,199.0,93.6,201.0,94.2,Students With Disabilities: Students With Disabilities,1290011: Somers School District
-68,93.22,68.0,92.53,153.0,93.58,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1290011: Somers School District
 42,94.54,42.0,95.36,40.0,94.96,Race/Ethnicity: All other races,1290011: Somers School District
 30,92.75,38.0,92.15,40.0,94.75,Race/Ethnicity: Black or African American,1290011: Somers School District
 66,93.34,60.0,93.34,65.0,95.08,Race/Ethnicity: Hispanic/Latino of any race,1290011: Somers School District
@@ -1041,7 +930,6 @@
 920,91.31,874.0,91.99,920.0,93.01,Students With Disabilities: Students With Disabilities,1310011: Southington School District
 1116,90.99,1130.0,91.56,1167.0,92.99,Free/Reduced Lunch: Free Meal Eligible,1310011: Southington School District
 297,93.35,321.0,94.59,270.0,94.63,Free/Reduced Lunch: Reduced Price Meal Eligible,1310011: Southington School District
-1413,91.49,1451.0,92.24,1437.0,93.3,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1310011: Southington School District
 146,92.89,142.0,93.54,135.0,94.97,English Learners: English Learners,1310011: Southington School District
 563,94.41,515.0,95.33,514.0,95.38,Race/Ethnicity: All other races,1310011: Southington School District
 147,93.03,157.0,94.24,150.0,96.22,Race/Ethnicity: Black or African American,1310011: Southington School District
@@ -1052,7 +940,6 @@
 579,92.26,589.0,94.64,582.0,94.6,Students With Disabilities: Students With Disabilities,1320011: South Windsor School District
 583,92.06,619.0,94.48,642.0,94.05,Free/Reduced Lunch: Free Meal Eligible,1320011: South Windsor School District
 197,94.58,193.0,96.61,151.0,95.77,Free/Reduced Lunch: Reduced Price Meal Eligible,1320011: South Windsor School District
-780,92.7,812.0,94.99,793.0,94.38,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1320011: South Windsor School District
 350,93.88,322.0,97.51,324.0,95.26,English Learners: English Learners,1320011: South Windsor School District
 1635,95.24,1482.0,98.39,1387.0,96.32,Race/Ethnicity: All other races,1320011: South Windsor School District
 276,93.1,276.0,95.32,278.0,94.97,Race/Ethnicity: Black or African American,1320011: South Windsor School District
@@ -1062,7 +949,6 @@
 1409,93.12,1422.0,95.81,1385.0,94.89,High Needs: Students With High Needs,1320011: South Windsor School District
 37,90.1,41.0,89.89,49.0,91.93,Students With Disabilities: Students With Disabilities,1330011: Sprague School District
 131,90.62,129.0,88.79,129.0,93.69,Free/Reduced Lunch: Free Meal Eligible,1330011: Sprague School District
-143,90.68,163.0,89.88,163.0,94.12,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1330011: Sprague School District
 41,92.39,38.0,92.5,,,Race/Ethnicity: All other races,1330011: Sprague School District
 164,90.85,160.0,92.67,177.0,94.2,Race/Ethnicity: White,1330011: Sprague School District
 76,92.15,62.0,96.08,74.0,96.23,High Needs: Students Without High Needs,1330011: Sprague School District
@@ -1070,7 +956,6 @@
 213,89.74,207.0,91.91,218.0,93.88,Students With Disabilities: Students With Disabilities,1340011: Stafford School District
 329,90.56,418.0,92.31,466.0,93.48,Free/Reduced Lunch: Free Meal Eligible,1340011: Stafford School District
 67,89.78,138.0,94.6,121.0,95.27,Free/Reduced Lunch: Reduced Price Meal Eligible,1340011: Stafford School District
-396,90.43,556.0,92.88,587.0,93.85,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1340011: Stafford School District
 129,91.73,108.0,93.87,109.0,93.76,Race/Ethnicity: Hispanic/Latino of any race,1340011: Stafford School District
 1106,92.55,1176.0,95.13,1183.0,94.95,Race/Ethnicity: White,1340011: Stafford School District
 762,93.66,688.0,96.86,692.0,95.59,High Needs: Students Without High Needs,1340011: Stafford School District
@@ -1079,7 +964,6 @@
 2257,88.48,2144.0,90.96,2344.0,92.93,Students With Disabilities: Students With Disabilities,1350011: Stamford School District
 7070,89.72,7484.0,92.05,8008.0,94.01,Free/Reduced Lunch: Free Meal Eligible,1350011: Stamford School District
 1385,92.2,1535.0,94.1,1620.0,95.03,Free/Reduced Lunch: Reduced Price Meal Eligible,1350011: Stamford School District
-8455,90.13,9019.0,92.4,9628.0,94.18,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1350011: Stamford School District
 2046,88.06,1997.0,89.17,2444.0,93.4,English Learners: English Learners,1350011: Stamford School District
 1611,92.16,1676.0,95.69,1736.0,94.57,Race/Ethnicity: All other races,1350011: Stamford School District
 2212,89.2,2253.0,92.15,2364.0,94.13,Race/Ethnicity: Black or African American,1350011: Stamford School District
@@ -1088,7 +972,6 @@
 5490,93.44,5521.0,96.96,5599.0,95.84,High Needs: Students Without High Needs,1350011: Stamford School District
 9864,89.86,9964.0,92.25,10712.0,94.09,High Needs: Students With High Needs,1350011: Stamford School District
 51,88.15,48.0,89.54,55.0,91.46,Students With Disabilities: Students With Disabilities,1360011: Sterling School District
-106,88.49,100.0,87.35,133.0,92.8,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1360011: Sterling School District
 29,86.97,24.0,92.51,,,Race/Ethnicity: Hispanic/Latino of any race,1360011: Sterling School District
 253,90.03,243.0,91.31,269.0,93.83,Race/Ethnicity: White,1360011: Sterling School District
 173,90.73,158.0,92.27,165.0,94.49,High Needs: Students Without High Needs,1360011: Sterling School District
@@ -1096,7 +979,6 @@
 246,90.33,265.0,89.01,291.0,93.99,Students With Disabilities: Students With Disabilities,1370011: Stonington School District
 340,90.52,392.0,89.09,447.0,93.98,Free/Reduced Lunch: Free Meal Eligible,1370011: Stonington School District
 70,92.34,102.0,91.06,85.0,94.77,Free/Reduced Lunch: Reduced Price Meal Eligible,1370011: Stonington School District
-410,90.84,494.0,89.5,532.0,94.11,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1370011: Stonington School District
 148,93.0,151.0,91.89,135.0,95.68,Race/Ethnicity: All other races,1370011: Stonington School District
 1521,93.29,1558.0,92.89,1650.0,94.97,Race/Ethnicity: White,1370011: Stonington School District
 1206,94.14,1176.0,93.74,1219.0,95.44,High Needs: Students Without High Needs,1370011: Stonington School District
@@ -1105,7 +987,6 @@
 1040,89.36,1053.0,88.36,1000.0,92.44,Students With Disabilities: Students With Disabilities,1380011: Stratford School District
 2765,90.5,2520.0,88.91,2792.0,93.15,Free/Reduced Lunch: Free Meal Eligible,1380011: Stratford School District
 533,92.46,556.0,92.72,629.0,94.68,Free/Reduced Lunch: Reduced Price Meal Eligible,1380011: Stratford School District
-3298,90.82,3076.0,89.6,3421.0,93.43,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1380011: Stratford School District
 487,92.44,418.0,90.36,473.0,94.41,English Learners: English Learners,1380011: Stratford School District
 450,92.97,464.0,92.68,442.0,94.77,Race/Ethnicity: All other races,1380011: Stratford School District
 1707,91.97,1656.0,90.48,1558.0,94.85,Race/Ethnicity: Black or African American,1380011: Stratford School District
@@ -1116,7 +997,6 @@
 279,91.67,280.0,92.09,281.0,91.52,Students With Disabilities: Students With Disabilities,1390011: Suffield School District
 225,89.93,271.0,90.69,303.0,92.53,Free/Reduced Lunch: Free Meal Eligible,1390011: Suffield School District
 77,93.11,73.0,92.96,54.0,93.1,Free/Reduced Lunch: Reduced Price Meal Eligible,1390011: Suffield School District
-302,90.74,344.0,91.18,357.0,92.62,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1390011: Suffield School District
 41,94.49,46.0,92.96,44.0,93.7,English Learners: English Learners,1390011: Suffield School District
 105,94.5,106.0,96.48,103.0,96.19,Race/Ethnicity: All other races,1390011: Suffield School District
 79,90.97,88.0,93.23,74.0,94.71,Race/Ethnicity: Black or African American,1390011: Suffield School District
@@ -1127,7 +1007,6 @@
 113,92.6,119.0,91.06,127.0,93.98,Students With Disabilities: Students With Disabilities,1400011: Thomaston School District
 219,92.15,207.0,88.84,226.0,93.96,Free/Reduced Lunch: Free Meal Eligible,1400011: Thomaston School District
 53,92.42,75.0,91.52,53.0,94.98,Free/Reduced Lunch: Reduced Price Meal Eligible,1400011: Thomaston School District
-272,92.2,282.0,89.56,279.0,94.15,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1400011: Thomaston School District
 81,91.59,60.0,87.36,56.0,93.54,Race/Ethnicity: Hispanic/Latino of any race,1400011: Thomaston School District
 662,94.54,700.0,93.21,730.0,95.71,Race/Ethnicity: White,1400011: Thomaston School District
 449,95.43,451.0,94.68,476.0,96.54,High Needs: Students Without High Needs,1400011: Thomaston School District
@@ -1135,7 +1014,6 @@
 177,85.79,170.0,85.9,165.0,92.0,Students With Disabilities: Students With Disabilities,1410011: Thompson School District
 296,86.17,344.0,85.95,373.0,91.59,Free/Reduced Lunch: Free Meal Eligible,1410011: Thompson School District
 66,89.22,82.0,89.51,84.0,93.35,Free/Reduced Lunch: Reduced Price Meal Eligible,1410011: Thompson School District
-362,86.71,426.0,86.64,457.0,91.91,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1410011: Thompson School District
 69,87.57,73.0,84.55,56.0,91.59,Race/Ethnicity: Hispanic/Latino of any race,1410011: Thompson School District
 783,89.34,806.0,91.1,848.0,93.02,Race/Ethnicity: White,1410011: Thompson School District
 422,91.6,418.0,94.16,429.0,93.97,High Needs: Students Without High Needs,1410011: Thompson School District
@@ -1143,7 +1021,6 @@
 307,91.64,301.0,95.23,312.0,94.92,Students With Disabilities: Students With Disabilities,1420011: Tolland School District
 245,90.74,202.0,94.44,221.0,94.86,Free/Reduced Lunch: Free Meal Eligible,1420011: Tolland School District
 82,92.54,112.0,94.98,97.0,94.53,Free/Reduced Lunch: Reduced Price Meal Eligible,1420011: Tolland School District
-327,91.19,314.0,94.64,318.0,94.76,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1420011: Tolland School District
 24,94.46,,,,,English Learners: English Learners,1420011: Tolland School District
 133,94.0,135.0,97.48,126.0,96.4,Race/Ethnicity: All other races,1420011: Tolland School District
 65,93.35,61.0,95.75,61.0,96.66,Race/Ethnicity: Black or African American,1420011: Tolland School District
@@ -1154,7 +1031,6 @@
 641,89.68,654.0,86.69,707.0,92.74,Students With Disabilities: Students With Disabilities,1430011: Torrington School District
 1864,90.73,1985.0,87.82,2230.0,93.8,Free/Reduced Lunch: Free Meal Eligible,1430011: Torrington School District
 465,92.2,461.0,91.46,346.0,95.92,Free/Reduced Lunch: Reduced Price Meal Eligible,1430011: Torrington School District
-2329,91.03,2446.0,88.52,2576.0,94.09,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1430011: Torrington School District
 434,94.2,373.0,91.32,405.0,95.75,English Learners: English Learners,1430011: Torrington School District
 278,92.46,291.0,89.45,296.0,95.09,Race/Ethnicity: All other races,1430011: Torrington School District
 220,90.45,185.0,87.37,169.0,94.0,Race/Ethnicity: Black or African American,1430011: Torrington School District
@@ -1165,7 +1041,6 @@
 838,93.63,791.0,94.63,789.0,95.34,Students With Disabilities: Students With Disabilities,1440011: Trumbull School District
 823,93.72,884.0,94.25,,,Free/Reduced Lunch: Free Meal Eligible,1440011: Trumbull School District
 319,94.37,291.0,95.39,,,Free/Reduced Lunch: Reduced Price Meal Eligible,1440011: Trumbull School District
-1142,93.9,1175.0,94.53,899.0,95.12,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1440011: Trumbull School District
 285,94.62,273.0,95.59,247.0,95.35,English Learners: English Learners,1440011: Trumbull School District
 871,95.68,799.0,97.75,770.0,96.79,Race/Ethnicity: All other races,1440011: Trumbull School District
 416,95.2,394.0,96.14,382.0,96.95,Race/Ethnicity: Black or African American,1440011: Trumbull School District
@@ -1176,7 +1051,6 @@
 545,90.27,509.0,90.03,508.0,92.48,Students With Disabilities: Students With Disabilities,1460011: Vernon School District
 1303,91.72,1323.0,91.77,1426.0,94.14,Free/Reduced Lunch: Free Meal Eligible,1460011: Vernon School District
 249,93.4,269.0,92.67,204.0,95.22,Free/Reduced Lunch: Reduced Price Meal Eligible,1460011: Vernon School District
-1552,91.99,1592.0,91.92,1630.0,94.28,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1460011: Vernon School District
 108,90.94,114.0,93.84,124.0,95.67,English Learners: English Learners,1460011: Vernon School District
 470,93.02,419.0,94.29,425.0,95.15,Race/Ethnicity: All other races,1460011: Vernon School District
 316,93.29,314.0,91.96,321.0,95.33,Race/Ethnicity: Black or African American,1460011: Vernon School District
@@ -1187,14 +1061,12 @@
 33,93.36,33.0,94.22,40.0,94.58,Students With Disabilities: Students With Disabilities,1470011: Voluntown School District
 56,92.75,,,,,Free/Reduced Lunch: Free Meal Eligible,1470011: Voluntown School District
 21,95.31,,,,,Free/Reduced Lunch: Reduced Price Meal Eligible,1470011: Voluntown School District
-77,93.45,63.0,94.1,65.0,94.94,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1470011: Voluntown School District
 190,94.4,194.0,94.45,188.0,95.19,Race/Ethnicity: White,1470011: Voluntown School District
 119,95.04,134.0,94.5,135.0,95.3,High Needs: Students Without High Needs,1470011: Voluntown School District
 90,93.59,82.0,94.35,86.0,94.74,High Needs: Students With High Needs,1470011: Voluntown School District
 861,89.75,828.0,92.62,883.0,93.31,Students With Disabilities: Students With Disabilities,1480011: Wallingford School District
 1259,89.44,1375.0,93.0,1453.0,93.89,Free/Reduced Lunch: Free Meal Eligible,1480011: Wallingford School District
 335,91.8,288.0,95.31,309.0,95.5,Free/Reduced Lunch: Reduced Price Meal Eligible,1480011: Wallingford School District
-1594,89.94,1663.0,93.4,1762.0,94.17,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1480011: Wallingford School District
 329,91.61,300.0,94.65,337.0,95.25,English Learners: English Learners,1480011: Wallingford School District
 449,92.92,463.0,95.95,384.0,96.63,Race/Ethnicity: All other races,1480011: Wallingford School District
 86,92.05,89.0,94.35,120.0,95.32,Race/Ethnicity: Black or African American,1480011: Wallingford School District
@@ -1206,7 +1078,6 @@
 3244,86.22,3286.0,87.71,3468.0,91.39,Students With Disabilities: Students With Disabilities,1510011: Waterbury School District
 12207,87.89,13033.0,89.62,14409.0,93.0,Free/Reduced Lunch: Free Meal Eligible,1510011: Waterbury School District
 361,92.82,472.0,95.62,548.0,95.79,Free/Reduced Lunch: Reduced Price Meal Eligible,1510011: Waterbury School District
-12568,88.02,13505.0,89.83,14957.0,93.11,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1510011: Waterbury School District
 3008,89.01,2817.0,89.28,3047.0,93.14,English Learners: English Learners,1510011: Waterbury School District
 1043,89.88,1055.0,91.75,1012.0,94.05,Race/Ethnicity: All other races,1510011: Waterbury School District
 3876,88.75,3900.0,90.08,3908.0,93.51,Race/Ethnicity: Black or African American,1510011: Waterbury School District
@@ -1217,7 +1088,6 @@
 360,92.62,360.0,92.89,398.0,93.92,Students With Disabilities: Students With Disabilities,1520011: Waterford School District
 468,92.21,475.0,92.39,602.0,93.93,Free/Reduced Lunch: Free Meal Eligible,1520011: Waterford School District
 143,93.9,155.0,92.7,165.0,95.31,Free/Reduced Lunch: Reduced Price Meal Eligible,1520011: Waterford School District
-611,92.6,630.0,92.47,767.0,94.24,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1520011: Waterford School District
 82,92.59,67.0,93.78,78.0,95.03,English Learners: English Learners,1520011: Waterford School District
 256,94.75,249.0,95.19,248.0,96.09,Race/Ethnicity: All other races,1520011: Waterford School District
 55,95.21,65.0,92.61,68.0,96.13,Race/Ethnicity: Black or African American,1520011: Waterford School District
@@ -1228,7 +1098,6 @@
 376,91.35,369.0,91.99,390.0,93.32,Students With Disabilities: Students With Disabilities,1530011: Watertown School District
 671,92.43,705.0,93.05,760.0,94.0,Free/Reduced Lunch: Free Meal Eligible,1530011: Watertown School District
 207,94.78,247.0,95.5,205.0,95.4,Free/Reduced Lunch: Reduced Price Meal Eligible,1530011: Watertown School District
-878,92.98,952.0,93.69,965.0,94.3,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1530011: Watertown School District
 119,93.79,107.0,94.21,130.0,95.97,English Learners: English Learners,1530011: Watertown School District
 135,94.29,137.0,94.44,130.0,95.32,Race/Ethnicity: All other races,1530011: Watertown School District
 84,95.51,76.0,94.76,76.0,95.5,Race/Ethnicity: Black or African American,1530011: Watertown School District
@@ -1239,7 +1108,6 @@
 87,92.07,90.0,95.78,95.0,94.02,Students With Disabilities: Students With Disabilities,1540011: Westbrook School District
 154,91.47,178.0,95.45,193.0,94.4,Free/Reduced Lunch: Free Meal Eligible,1540011: Westbrook School District
 51,92.18,49.0,96.5,40.0,95.36,Free/Reduced Lunch: Reduced Price Meal Eligible,1540011: Westbrook School District
-205,91.64,227.0,95.68,233.0,94.57,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1540011: Westbrook School District
 71,94.27,70.0,95.89,82.0,95.43,English Learners: English Learners,1540011: Westbrook School District
 137,93.36,125.0,96.23,124.0,95.14,Race/Ethnicity: Hispanic/Latino of any race,1540011: Westbrook School District
 425,92.4,446.0,97.31,463.0,95.2,Race/Ethnicity: White,1540011: Westbrook School District
@@ -1248,7 +1116,6 @@
 1342,90.52,1296.0,94.06,1303.0,93.17,Students With Disabilities: Students With Disabilities,1550011: West Hartford School District
 1754,90.41,1897.0,93.76,2063.0,93.85,Free/Reduced Lunch: Free Meal Eligible,1550011: West Hartford School District
 428,91.89,483.0,95.47,366.0,95.44,Free/Reduced Lunch: Reduced Price Meal Eligible,1550011: West Hartford School District
-2182,90.7,2380.0,94.11,2429.0,94.1,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1550011: West Hartford School District
 584,91.6,566.0,94.23,648.0,94.17,English Learners: English Learners,1550011: West Hartford School District
 1482,94.28,1405.0,97.18,1474.0,95.93,Race/Ethnicity: All other races,1550011: West Hartford School District
 779,91.89,845.0,94.65,807.0,95.21,Race/Ethnicity: Black or African American,1550011: West Hartford School District
@@ -1259,7 +1126,6 @@
 991,89.36,948.0,89.86,963.0,92.39,Students With Disabilities: Students With Disabilities,1560011: West Haven School District
 2704,89.72,2941.0,89.88,3148.0,93.48,Free/Reduced Lunch: Free Meal Eligible,1560011: West Haven School District
 458,92.19,483.0,93.82,373.0,95.28,Free/Reduced Lunch: Reduced Price Meal Eligible,1560011: West Haven School District
-3162,90.07,3424.0,90.44,3521.0,93.67,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1560011: West Haven School District
 960,92.76,839.0,92.2,906.0,95.45,English Learners: English Learners,1560011: West Haven School District
 561,91.82,535.0,92.11,504.0,94.53,Race/Ethnicity: All other races,1560011: West Haven School District
 1411,91.49,1313.0,91.33,1329.0,94.21,Race/Ethnicity: Black or African American,1560011: West Haven School District
@@ -1268,7 +1134,6 @@
 1823,92.99,1668.0,94.88,1755.0,95.25,High Needs: Students Without High Needs,1560011: West Haven School District
 3832,90.4,3918.0,90.65,4057.0,93.74,High Needs: Students With High Needs,1560011: West Haven School District
 234,93.38,247.0,95.2,255.0,94.58,Students With Disabilities: Students With Disabilities,1570011: Weston School District
-33,92.58,35.0,93.56,46.0,94.4,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1570011: Weston School District
 278,95.2,263.0,97.19,242.0,96.39,Race/Ethnicity: All other races,1570011: Weston School District
 29,93.43,33.0,93.89,42.0,94.77,Race/Ethnicity: Black or African American,1570011: Weston School District
 186,95.43,175.0,96.94,155.0,95.58,Race/Ethnicity: Hispanic/Latino of any race,1570011: Weston School District
@@ -1278,7 +1143,6 @@
 696,91.88,661.0,94.73,686.0,94.38,Students With Disabilities: Students With Disabilities,1580011: Westport School District
 113,90.19,110.0,92.29,137.0,93.91,Free/Reduced Lunch: Free Meal Eligible,1580011: Westport School District
 34,94.01,24.0,94.03,46.0,94.76,Free/Reduced Lunch: Reduced Price Meal Eligible,1580011: Westport School District
-147,91.07,134.0,92.6,183.0,94.13,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1580011: Westport School District
 60,93.12,56.0,94.69,74.0,95.2,English Learners: English Learners,1580011: Westport School District
 701,94.81,688.0,97.26,633.0,96.42,Race/Ethnicity: All other races,1580011: Westport School District
 117,94.11,123.0,95.2,117.0,95.95,Race/Ethnicity: Black or African American,1580011: Westport School District
@@ -1289,7 +1153,6 @@
 476,90.86,469.0,93.87,491.0,94.13,Students With Disabilities: Students With Disabilities,1590011: Wethersfield School District
 811,91.07,723.0,94.36,794.0,94.62,Free/Reduced Lunch: Free Meal Eligible,1590011: Wethersfield School District
 219,92.65,144.0,96.24,170.0,96.21,Free/Reduced Lunch: Reduced Price Meal Eligible,1590011: Wethersfield School District
-1030,91.4,867.0,94.68,964.0,94.9,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1590011: Wethersfield School District
 333,92.21,322.0,95.34,360.0,95.4,English Learners: English Learners,1590011: Wethersfield School District
 352,93.33,302.0,97.01,304.0,96.39,Race/Ethnicity: All other races,1590011: Wethersfield School District
 151,91.37,142.0,93.54,135.0,95.5,Race/Ethnicity: Black or African American,1590011: Wethersfield School District
@@ -1298,7 +1161,6 @@
 2127,94.43,2197.0,97.78,2202.0,96.6,High Needs: Students Without High Needs,1590011: Wethersfield School District
 1403,91.78,1283.0,94.77,1358.0,94.95,High Needs: Students With High Needs,1590011: Wethersfield School District
 62,88.44,68.0,89.93,76.0,93.15,Students With Disabilities: Students With Disabilities,1600011: Willington School District
-61,89.5,147.0,89.73,161.0,93.97,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1600011: Willington School District
 26,88.81,34.0,87.76,37.0,92.4,Race/Ethnicity: Hispanic/Latino of any race,1600011: Willington School District
 327,91.45,343.0,91.65,362.0,95.33,Race/Ethnicity: White,1600011: Willington School District
 254,92.58,202.0,92.67,221.0,95.85,High Needs: Students Without High Needs,1600011: Willington School District
@@ -1306,7 +1168,6 @@
 572,95.31,566.0,96.19,591.0,95.62,Students With Disabilities: Students With Disabilities,1610011: Wilton School District
 125,94.3,142.0,96.19,171.0,95.8,Free/Reduced Lunch: Free Meal Eligible,1610011: Wilton School District
 27,95.72,28.0,96.68,34.0,95.51,Free/Reduced Lunch: Reduced Price Meal Eligible,1610011: Wilton School District
-152,94.56,170.0,96.27,205.0,95.75,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1610011: Wilton School District
 27,93.77,25.0,95.32,34.0,94.08,English Learners: English Learners,1610011: Wilton School District
 653,96.34,625.0,97.28,622.0,96.81,Race/Ethnicity: All other races,1610011: Wilton School District
 37,96.25,37.0,97.98,40.0,96.9,Race/Ethnicity: Black or African American,1610011: Wilton School District
@@ -1317,7 +1178,6 @@
 108,88.9,114.0,90.8,121.0,90.2,Students With Disabilities: Students With Disabilities,1620011: Winchester School District
 254,91.48,249.0,93.39,259.0,92.79,Free/Reduced Lunch: Free Meal Eligible,1620011: Winchester School District
 57,92.64,50.0,93.2,58.0,94.5,Free/Reduced Lunch: Reduced Price Meal Eligible,1620011: Winchester School District
-311,91.69,299.0,93.36,317.0,93.11,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1620011: Winchester School District
 62,90.77,64.0,92.02,60.0,95.09,Race/Ethnicity: Hispanic/Latino of any race,1620011: Winchester School District
 433,92.2,429.0,94.12,423.0,93.89,Race/Ethnicity: White,1620011: Winchester School District
 170,93.68,179.0,95.05,166.0,95.53,High Needs: Students Without High Needs,1620011: Winchester School District
@@ -1325,7 +1185,6 @@
 553,85.08,557.0,83.07,588.0,91.06,Students With Disabilities: Students With Disabilities,1630011: Windham School District
 1847,85.32,1833.0,84.37,2089.0,92.89,Free/Reduced Lunch: Free Meal Eligible,1630011: Windham School District
 236,89.7,221.0,89.53,187.0,94.65,Free/Reduced Lunch: Reduced Price Meal Eligible,1630011: Windham School District
-2083,85.81,2054.0,84.93,2276.0,93.04,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1630011: Windham School District
 952,86.28,898.0,84.0,943.0,93.15,English Learners: English Learners,1630011: Windham School District
 103,87.52,100.0,88.47,98.0,94.85,Race/Ethnicity: All other races,1630011: Windham School District
 89,86.73,101.0,85.94,111.0,92.12,Race/Ethnicity: Black or African American,1630011: Windham School District
@@ -1336,7 +1195,6 @@
 631,87.17,623.0,87.88,664.0,92.82,Students With Disabilities: Students With Disabilities,1640011: Windsor School District
 1015,87.74,1141.0,88.44,1227.0,93.81,Free/Reduced Lunch: Free Meal Eligible,1640011: Windsor School District
 257,90.61,285.0,92.13,258.0,94.56,Free/Reduced Lunch: Reduced Price Meal Eligible,1640011: Windsor School District
-1272,88.32,1426.0,89.18,1485.0,93.94,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1640011: Windsor School District
 111,87.7,126.0,90.34,128.0,94.1,English Learners: English Learners,1640011: Windsor School District
 409,91.08,394.0,94.17,365.0,95.0,Race/Ethnicity: All other races,1640011: Windsor School District
 1310,90.81,1326.0,92.0,1401.0,95.28,Race/Ethnicity: Black or African American,1640011: Windsor School District
@@ -1347,7 +1205,6 @@
 236,89.01,248.0,90.12,253.0,92.22,Students With Disabilities: Students With Disabilities,1650011: Windsor Locks School District
 532,88.73,520.0,91.51,687.0,93.24,Free/Reduced Lunch: Free Meal Eligible,1650011: Windsor Locks School District
 104,91.74,89.0,90.23,105.0,93.97,Free/Reduced Lunch: Reduced Price Meal Eligible,1650011: Windsor Locks School District
-636,89.22,609.0,91.32,792.0,93.34,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1650011: Windsor Locks School District
 102,92.83,94.0,94.75,90.0,94.01,English Learners: English Learners,1650011: Windsor Locks School District
 192,91.56,205.0,94.94,198.0,94.85,Race/Ethnicity: All other races,1650011: Windsor Locks School District
 180,87.0,190.0,89.2,201.0,93.06,Race/Ethnicity: Black or African American,1650011: Windsor Locks School District
@@ -1358,7 +1215,6 @@
 313,92.75,291.0,92.86,299.0,93.93,Students With Disabilities: Students With Disabilities,1660011: Wolcott School District
 451,93.06,486.0,92.96,497.0,94.24,Free/Reduced Lunch: Free Meal Eligible,1660011: Wolcott School District
 141,93.89,176.0,94.13,143.0,94.99,Free/Reduced Lunch: Reduced Price Meal Eligible,1660011: Wolcott School District
-592,93.25,662.0,93.28,640.0,94.41,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1660011: Wolcott School District
 86,94.55,80.0,96.07,74.0,95.64,English Learners: English Learners,1660011: Wolcott School District
 129,94.78,143.0,95.07,120.0,95.83,Race/Ethnicity: All other races,1660011: Wolcott School District
 77,95.49,71.0,95.49,82.0,96.24,Race/Ethnicity: Black or African American,1660011: Wolcott School District
@@ -1367,7 +1223,6 @@
 1280,94.78,1266.0,96.38,1349.0,95.62,High Needs: Students Without High Needs,1660011: Wolcott School District
 820,93.28,840.0,93.77,822.0,94.55,High Needs: Students With High Needs,1660011: Wolcott School District
 94,93.41,89.0,95.52,96.0,95.31,Students With Disabilities: Students With Disabilities,1670011: Woodbridge School District
-100,93.87,118.0,96.01,121.0,95.7,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1670011: Woodbridge School District
 30,94.65,25.0,96.0,26.0,95.79,English Learners: English Learners,1670011: Woodbridge School District
 202,95.51,188.0,97.26,179.0,95.77,Race/Ethnicity: All other races,1670011: Woodbridge School District
 24,94.71,33.0,97.16,33.0,96.54,Race/Ethnicity: Black or African American,1670011: Woodbridge School District
@@ -1378,13 +1233,11 @@
 89,93.62,81.0,95.18,89.0,93.62,Students With Disabilities: Students With Disabilities,1690011: Woodstock School District
 120,92.49,100.0,94.74,123.0,92.88,Free/Reduced Lunch: Free Meal Eligible,1690011: Woodstock School District
 32,93.05,37.0,97.44,36.0,93.99,Free/Reduced Lunch: Reduced Price Meal Eligible,1690011: Woodstock School District
-152,92.61,137.0,95.46,159.0,93.13,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,1690011: Woodstock School District
 51,94.08,49.0,96.21,49.0,93.7,Race/Ethnicity: All other races,1690011: Woodstock School District
 691,94.33,707.0,97.13,717.0,95.12,Race/Ethnicity: White,1690011: Woodstock School District
 544,94.81,564.0,97.52,572.0,95.65,High Needs: Students Without High Needs,1690011: Woodstock School District
 225,93.08,199.0,95.56,227.0,93.38,High Needs: Students With High Needs,1690011: Woodstock School District
 62,90.67,58.0,86.45,62.0,91.64,Students With Disabilities: Students With Disabilities,2010012: Regional School District 01
-113,89.98,118.0,85.91,155.0,92.67,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2010012: Regional School District 01
 46,90.91,39.0,86.5,50.0,95.71,Race/Ethnicity: Hispanic/Latino of any race,2010012: Regional School District 01
 263,91.74,256.0,89.09,275.0,93.6,Race/Ethnicity: White,2010012: Regional School District 01
 182,92.73,166.0,90.73,172.0,95.52,High Needs: Students Without High Needs,2010012: Regional School District 01
@@ -1392,7 +1245,6 @@
 155,91.57,170.0,94.5,166.0,93.66,Students With Disabilities: Students With Disabilities,2040012: Regional School District 04
 140,90.75,149.0,93.34,153.0,93.28,Free/Reduced Lunch: Free Meal Eligible,2040012: Regional School District 04
 44,93.07,39.0,96.29,29.0,95.14,Free/Reduced Lunch: Reduced Price Meal Eligible,2040012: Regional School District 04
-184,91.3,188.0,93.96,182.0,93.59,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2040012: Regional School District 04
 56,94.26,44.0,94.98,,,Race/Ethnicity: Hispanic/Latino of any race,2040012: Regional School District 04
 702,93.39,743.0,96.54,768.0,95.0,Race/Ethnicity: White,2040012: Regional School District 04
 519,94.37,533.0,97.39,567.0,95.62,High Needs: Students Without High Needs,2040012: Regional School District 04
@@ -1400,7 +1252,6 @@
 271,89.37,279.0,90.84,280.0,93.72,Students With Disabilities: Students With Disabilities,2050012: Regional School District 05
 240,91.94,219.0,91.92,226.0,95.01,Free/Reduced Lunch: Free Meal Eligible,2050012: Regional School District 05
 68,91.87,61.0,93.89,62.0,94.55,Free/Reduced Lunch: Reduced Price Meal Eligible,2050012: Regional School District 05
-308,91.92,280.0,92.35,288.0,94.92,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2050012: Regional School District 05
 409,95.18,403.0,95.94,420.0,96.61,Race/Ethnicity: All other races,2050012: Regional School District 05
 74,93.48,79.0,93.51,74.0,95.75,Race/Ethnicity: Black or African American,2050012: Regional School District 05
 161,92.92,142.0,93.53,67.0,95.09,Race/Ethnicity: Hispanic/Latino of any race,2050012: Regional School District 05
@@ -1410,7 +1261,6 @@
 149,90.33,147.0,93.19,137.0,93.25,Students With Disabilities: Students With Disabilities,2060012: Regional School District 06
 157,91.1,160.0,94.11,159.0,94.2,Free/Reduced Lunch: Free Meal Eligible,2060012: Regional School District 06
 41,88.97,46.0,93.23,51.0,93.4,Free/Reduced Lunch: Reduced Price Meal Eligible,2060012: Regional School District 06
-198,90.66,206.0,93.91,210.0,94.01,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2060012: Regional School District 06
 49,91.76,46.0,95.17,,,Race/Ethnicity: Hispanic/Latino of any race,2060012: Regional School District 06
 738,92.47,746.0,95.07,766.0,94.82,Race/Ethnicity: White,2060012: Regional School District 06
 524,93.29,514.0,95.86,542.0,95.36,High Needs: Students Without High Needs,2060012: Regional School District 06
@@ -1418,7 +1268,6 @@
 188,91.58,187.0,94.84,191.0,94.13,Students With Disabilities: Students With Disabilities,2070012: Regional School District 07
 144,90.81,149.0,95.09,151.0,93.44,Free/Reduced Lunch: Free Meal Eligible,2070012: Regional School District 07
 42,90.85,51.0,95.42,55.0,94.24,Free/Reduced Lunch: Reduced Price Meal Eligible,2070012: Regional School District 07
-186,90.82,200.0,95.18,206.0,93.65,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2070012: Regional School District 07
 35,93.15,31.0,96.73,,,Race/Ethnicity: Hispanic/Latino of any race,2070012: Regional School District 07
 841,93.17,914.0,96.48,964.0,94.8,Race/Ethnicity: White,2070012: Regional School District 07
 582,94.1,636.0,97.15,696.0,95.21,High Needs: Students Without High Needs,2070012: Regional School District 07
@@ -1426,13 +1275,11 @@
 176,91.06,187.0,92.23,190.0,93.36,Students With Disabilities: Students With Disabilities,2080012: Regional School District 08
 160,91.56,156.0,90.62,184.0,94.54,Free/Reduced Lunch: Free Meal Eligible,2080012: Regional School District 08
 41,93.73,44.0,91.25,33.0,93.67,Free/Reduced Lunch: Reduced Price Meal Eligible,2080012: Regional School District 08
-201,92.0,200.0,90.76,217.0,94.41,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2080012: Regional School District 08
 85,94.45,83.0,94.43,76.0,95.15,Race/Ethnicity: Hispanic/Latino of any race,2080012: Regional School District 08
 1070,94.66,1157.0,95.52,1272.0,95.93,Race/Ethnicity: White,2080012: Regional School District 08
 880,95.54,959.0,96.75,1061.0,96.39,High Needs: Students Without High Needs,2080012: Regional School District 08
 335,92.0,334.0,92.0,344.0,94.24,High Needs: Students With High Needs,2080012: Regional School District 08
 119,88.5,114.0,91.24,111.0,92.03,Students With Disabilities: Students With Disabilities,2090012: Regional School District 09
-83,90.07,83.0,93.1,85.0,93.77,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2090012: Regional School District 09
 73,94.56,82.0,95.77,78.0,95.62,Race/Ethnicity: All other races,2090012: Regional School District 09
 675,92.92,679.0,95.29,719.0,95.29,Race/Ethnicity: White,2090012: Regional School District 09
 622,93.99,640.0,96.14,681.0,95.82,High Needs: Students Without High Needs,2090012: Regional School District 09
@@ -1440,21 +1287,18 @@
 258,93.16,254.0,93.21,259.0,94.2,Students With Disabilities: Students With Disabilities,2100012: Regional School District 10
 238,93.16,225.0,92.88,235.0,94.75,Free/Reduced Lunch: Free Meal Eligible,2100012: Regional School District 10
 55,94.1,55.0,94.25,38.0,96.24,Free/Reduced Lunch: Reduced Price Meal Eligible,2100012: Regional School District 10
-293,93.33,280.0,93.15,273.0,94.96,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2100012: Regional School District 10
 31,96.2,34.0,96.8,35.0,96.08,English Learners: English Learners,2100012: Regional School District 10
 479,94.72,400.0,95.38,396.0,95.74,Race/Ethnicity: All other races,2100012: Regional School District 10
 1501,94.64,1666.0,95.05,1692.0,95.78,Race/Ethnicity: White,2100012: Regional School District 10
 1609,95.02,1675.0,95.47,1715.0,96.02,High Needs: Students Without High Needs,2100012: Regional School District 10
 495,93.49,483.0,93.51,481.0,94.8,High Needs: Students With High Needs,2100012: Regional School District 10
 39,88.16,37.0,90.19,38.0,93.4,Students With Disabilities: Students With Disabilities,2110012: Regional School District 11
-100,90.43,83.0,91.29,66.0,93.28,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2110012: Regional School District 11
 187,91.12,176.0,93.74,180.0,95.19,Race/Ethnicity: White,2110012: Regional School District 11
 88,92.35,100.0,94.64,119.0,95.67,High Needs: Students Without High Needs,2110012: Regional School District 11
 119,90.08,102.0,91.69,90.0,94.11,High Needs: Students With High Needs,2110012: Regional School District 11
 90,91.91,97.0,93.15,102.0,94.2,Students With Disabilities: Students With Disabilities,2120012: Regional School District 12
 120,91.4,114.0,90.25,121.0,93.14,Free/Reduced Lunch: Free Meal Eligible,2120012: Regional School District 12
 36,92.57,38.0,94.37,25.0,95.22,Free/Reduced Lunch: Reduced Price Meal Eligible,2120012: Regional School District 12
-156,91.68,152.0,91.26,146.0,93.51,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2120012: Regional School District 12
 73,91.89,63.0,90.02,50.0,94.1,Race/Ethnicity: Hispanic/Latino of any race,2120012: Regional School District 12
 605,93.46,594.0,94.35,578.0,94.52,Race/Ethnicity: White,2120012: Regional School District 12
 477,93.87,445.0,94.86,434.0,94.89,High Needs: Students Without High Needs,2120012: Regional School District 12
@@ -1462,7 +1306,6 @@
 283,91.89,261.0,93.75,270.0,94.62,Students With Disabilities: Students With Disabilities,2130012: Regional School District 13
 165,90.41,174.0,92.86,167.0,94.6,Free/Reduced Lunch: Free Meal Eligible,2130012: Regional School District 13
 50,91.67,57.0,91.92,45.0,93.55,Free/Reduced Lunch: Reduced Price Meal Eligible,2130012: Regional School District 13
-215,90.71,231.0,92.62,212.0,94.38,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2130012: Regional School District 13
 96,92.06,95.0,94.28,98.0,95.12,Race/Ethnicity: Hispanic/Latino of any race,2130012: Regional School District 13
 1183,93.93,1246.0,95.91,1292.0,95.58,Race/Ethnicity: White,2130012: Regional School District 13
 915,94.83,985.0,96.77,1047.0,95.97,High Needs: Students Without High Needs,2130012: Regional School District 13
@@ -1470,7 +1313,6 @@
 251,93.83,228.0,95.86,255.0,94.01,Students With Disabilities: Students With Disabilities,2140012: Regional School District 14
 233,92.8,204.0,94.86,261.0,93.13,Free/Reduced Lunch: Free Meal Eligible,2140012: Regional School District 14
 83,94.23,73.0,95.78,70.0,94.71,Free/Reduced Lunch: Reduced Price Meal Eligible,2140012: Regional School District 14
-316,93.18,277.0,95.1,331.0,93.46,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2140012: Regional School District 14
 23,93.43,,,,,English Learners: English Learners,2140012: Regional School District 14
 128,94.31,115.0,95.21,92.0,94.5,Race/Ethnicity: Hispanic/Latino of any race,2140012: Regional School District 14
 1342,95.03,1346.0,97.25,1396.0,95.11,Race/Ethnicity: White,2140012: Regional School District 14
@@ -1479,7 +1321,6 @@
 623,91.31,581.0,95.91,627.0,94.42,Students With Disabilities: Students With Disabilities,2150012: Regional School District 15
 331,90.26,376.0,95.41,358.0,93.95,Free/Reduced Lunch: Free Meal Eligible,2150012: Regional School District 15
 81,90.63,96.0,96.58,101.0,93.61,Free/Reduced Lunch: Reduced Price Meal Eligible,2150012: Regional School District 15
-412,90.33,472.0,95.65,459.0,93.88,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2150012: Regional School District 15
 45,92.45,47.0,96.59,43.0,95.5,English Learners: English Learners,2150012: Regional School District 15
 299,93.94,285.0,97.94,289.0,96.67,Race/Ethnicity: All other races,2150012: Regional School District 15
 89,93.96,80.0,96.57,63.0,96.53,Race/Ethnicity: Black or African American,2150012: Regional School District 15
@@ -1490,7 +1331,6 @@
 256,93.1,256.0,93.57,253.0,95.52,Students With Disabilities: Students With Disabilities,2160012: Regional School District 16
 287,93.31,336.0,94.24,361.0,94.62,Free/Reduced Lunch: Free Meal Eligible,2160012: Regional School District 16
 112,94.64,112.0,94.78,88.0,95.57,Free/Reduced Lunch: Reduced Price Meal Eligible,2160012: Regional School District 16
-399,93.69,448.0,94.38,449.0,94.81,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2160012: Regional School District 16
 43,94.2,38.0,95.99,40.0,94.84,English Learners: English Learners,2160012: Regional School District 16
 69,95.04,65.0,95.44,69.0,95.94,Race/Ethnicity: All other races,2160012: Regional School District 16
 81,95.85,85.0,96.81,75.0,96.93,Race/Ethnicity: Black or African American,2160012: Regional School District 16
@@ -1501,7 +1341,6 @@
 273,93.12,283.0,93.77,298.0,96.33,Students With Disabilities: Students With Disabilities,2170012: Regional School District 17
 163,92.21,191.0,92.41,208.0,94.71,Free/Reduced Lunch: Free Meal Eligible,2170012: Regional School District 17
 45,94.36,61.0,94.64,48.0,96.6,Free/Reduced Lunch: Reduced Price Meal Eligible,2170012: Regional School District 17
-208,92.68,252.0,92.95,256.0,95.07,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2170012: Regional School District 17
 87,93.35,83.0,94.46,84.0,95.97,Race/Ethnicity: All other races,2170012: Regional School District 17
 1574,94.23,1627.0,94.91,1744.0,96.73,Race/Ethnicity: White,2170012: Regional School District 17
 1301,94.52,1312.0,95.34,1414.0,96.99,High Needs: Students Without High Needs,2170012: Regional School District 17
@@ -1509,7 +1348,6 @@
 154,92.41,149.0,94.94,158.0,94.56,Students With Disabilities: Students With Disabilities,2180012: Regional School District 18
 141,91.23,187.0,94.23,167.0,94.48,Free/Reduced Lunch: Free Meal Eligible,2180012: Regional School District 18
 28,92.75,46.0,95.35,46.0,94.55,Free/Reduced Lunch: Reduced Price Meal Eligible,2180012: Regional School District 18
-169,91.48,233.0,94.45,213.0,94.5,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2180012: Regional School District 18
 26,93.36,25.0,96.46,28.0,96.76,English Learners: English Learners,2180012: Regional School District 18
 81,93.16,74.0,95.57,,,Race/Ethnicity: Hispanic/Latino of any race,2180012: Regional School District 18
 1060,93.77,1048.0,96.08,1065.0,95.41,Race/Ethnicity: White,2180012: Regional School District 18
@@ -1518,7 +1356,6 @@
 177,90.39,180.0,95.17,172.0,95.71,Students With Disabilities: Students With Disabilities,2190012: Regional School District 19
 228,88.52,260.0,94.77,237.0,94.87,Free/Reduced Lunch: Free Meal Eligible,2190012: Regional School District 19
 60,91.64,64.0,97.33,53.0,95.87,Free/Reduced Lunch: Reduced Price Meal Eligible,2190012: Regional School District 19
-288,89.16,324.0,95.29,290.0,95.06,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2190012: Regional School District 19
 85,95.59,141.0,97.75,167.0,96.53,Race/Ethnicity: All other races,2190012: Regional School District 19
 50,91.9,,,,,Race/Ethnicity: Black or African American,2190012: Regional School District 19
 127,89.87,,,,,Race/Ethnicity: Hispanic/Latino of any race,2190012: Regional School District 19
@@ -1528,7 +1365,6 @@
 158,85.12,,,,,Students With Disabilities: Students With Disabilities,2310018: Goodwin University Educational Services (GUES)
 534,86.33,,,,,Free/Reduced Lunch: Free Meal Eligible,2310018: Goodwin University Educational Services (GUES)
 129,89.85,,,,,Free/Reduced Lunch: Reduced Price Meal Eligible,2310018: Goodwin University Educational Services (GUES)
-663,87.01,,,,,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2310018: Goodwin University Educational Services (GUES)
 139,86.08,,,,,English Learners: English Learners,2310018: Goodwin University Educational Services (GUES)
 78,90.87,,,,,Race/Ethnicity: All other races,2310018: Goodwin University Educational Services (GUES)
 264,88.86,,,,,Race/Ethnicity: Black or African American,2310018: Goodwin University Educational Services (GUES)
@@ -1540,7 +1376,6 @@
 1981,87.38,1537.0,88.57,1538.0,91.1,Students With Disabilities: Students With Disabilities,2410014: Capitol Region Education Council
 5448,87.06,4248.0,88.01,4156.0,91.81,Free/Reduced Lunch: Free Meal Eligible,2410014: Capitol Region Education Council
 1012,91.06,873.0,92.3,673.0,94.33,Free/Reduced Lunch: Reduced Price Meal Eligible,2410014: Capitol Region Education Council
-6460,87.67,5121.0,88.75,4829.0,92.16,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2410014: Capitol Region Education Council
 812,88.27,668.0,88.23,640.0,92.67,English Learners: English Learners,2410014: Capitol Region Education Council
 978,91.04,813.0,94.64,788.0,94.04,Race/Ethnicity: All other races,2410014: Capitol Region Education Council
 3174,89.64,2380.0,89.88,2280.0,93.3,Race/Ethnicity: Black or African American,2410014: Capitol Region Education Council
@@ -1550,13 +1385,11 @@
 7062,87.9,5653.0,89.17,5369.0,92.25,High Needs: Students With High Needs,2410014: Capitol Region Education Council
 99,77.45,,,,,Students With Disabilities: Students With Disabilities,2420014: EdAdvance
 72,72.31,,,,,Free/Reduced Lunch: Free Meal Eligible,2420014: EdAdvance
-78,72.54,38.0,68.82,39.0,81.96,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2420014: EdAdvance
 27,73.34,,,25.0,78.71,Race/Ethnicity: Hispanic/Latino of any race,2420014: EdAdvance
 77,78.26,50.0,80.25,56.0,90.43,Race/Ethnicity: White,2420014: EdAdvance
 323,86.91,327.0,87.75,345.0,90.71,Students With Disabilities: Students With Disabilities,2430014: Cooperative Educational Services
 169,86.14,229.0,87.68,248.0,90.63,Free/Reduced Lunch: Free Meal Eligible,2430014: Cooperative Educational Services
 82,91.41,55.0,90.98,66.0,93.96,Free/Reduced Lunch: Reduced Price Meal Eligible,2430014: Cooperative Educational Services
-251,87.89,284.0,88.34,314.0,91.35,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2430014: Cooperative Educational Services
 36,92.05,35.0,92.43,38.0,93.02,English Learners: English Learners,2430014: Cooperative Educational Services
 79,89.13,65.0,91.48,71.0,95.06,Race/Ethnicity: All other races,2430014: Cooperative Educational Services
 150,90.49,149.0,91.11,158.0,93.73,Race/Ethnicity: Black or African American,2430014: Cooperative Educational Services
@@ -1567,7 +1400,6 @@
 748,80.85,764.0,75.41,780.0,88.69,Students With Disabilities: Students With Disabilities,2440014: Area Cooperative Educational Services
 913,81.57,953.0,76.14,965.0,91.1,Free/Reduced Lunch: Free Meal Eligible,2440014: Area Cooperative Educational Services
 139,87.49,117.0,83.46,133.0,95.65,Free/Reduced Lunch: Reduced Price Meal Eligible,2440014: Area Cooperative Educational Services
-1052,82.36,1070.0,76.95,1098.0,91.66,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2440014: Area Cooperative Educational Services
 103,84.23,139.0,79.01,123.0,92.76,English Learners: English Learners,2440014: Area Cooperative Educational Services
 147,84.75,167.0,82.42,154.0,93.11,Race/Ethnicity: All other races,2440014: Area Cooperative Educational Services
 594,84.56,560.0,79.58,579.0,90.99,Race/Ethnicity: Black or African American,2440014: Area Cooperative Educational Services
@@ -1578,7 +1410,6 @@
 190,89.48,355.0,85.34,372.0,92.77,Students With Disabilities: Students With Disabilities,2450014: Learn
 442,88.39,1055.0,85.5,1062.0,93.03,Free/Reduced Lunch: Free Meal Eligible,2450014: Learn
 82,90.74,255.0,90.36,186.0,95.72,Free/Reduced Lunch: Reduced Price Meal Eligible,2450014: Learn
-524,88.76,1310.0,86.46,1248.0,93.43,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2450014: Learn
 83,88.81,211.0,84.09,249.0,93.5,English Learners: English Learners,2450014: Learn
 155,90.49,234.0,92.14,230.0,94.92,Race/Ethnicity: All other races,2450014: Learn
 98,90.77,353.0,86.36,323.0,94.91,Race/Ethnicity: Black or African American,2450014: Learn
@@ -1587,13 +1418,11 @@
 372,93.53,599.0,95.13,624.0,95.91,High Needs: Students Without High Needs,2450014: Learn
 602,89.19,1418.0,86.97,1370.0,93.54,High Needs: Students With High Needs,2450014: Learn
 159,83.15,191.0,83.56,208.0,90.9,Students With Disabilities: Students With Disabilities,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
-155,79.88,230.0,77.72,253.0,89.2,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
 70,81.62,86.0,77.16,105.0,88.79,Race/Ethnicity: Hispanic/Latino of any race,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
 273,83.46,289.0,82.36,326.0,91.71,Race/Ethnicity: White,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
 154,84.12,118.0,84.0,143.0,92.76,High Needs: Students Without High Needs,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
 230,82.03,309.0,79.58,344.0,90.01,High Needs: Students With High Needs,2530014: Eastern Connecticut Regional Educational Service Center (EASTCONN)
 45,90.6,47.0,94.67,39.0,94.8,Students With Disabilities: Students With Disabilities,2610013: Jumoke Academy District
-108,92.19,159.0,95.48,223.0,95.0,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2610013: Jumoke Academy District
 558,91.04,597.0,93.78,587.0,94.11,Race/Ethnicity: Black or African American,2610013: Jumoke Academy District
 26,89.13,31.0,92.02,26.0,93.82,Race/Ethnicity: Hispanic/Latino of any race,2610013: Jumoke Academy District
 441,90.6,431.0,92.84,376.0,93.38,High Needs: Students Without High Needs,2610013: Jumoke Academy District
@@ -1601,7 +1430,6 @@
 26,91.37,28.0,92.36,28.0,95.75,Students With Disabilities: Students With Disabilities,2630013: Odyssey Community School District
 108,94.31,100.0,95.26,110.0,96.04,Free/Reduced Lunch: Free Meal Eligible,2630013: Odyssey Community School District
 29,95.46,27.0,92.91,27.0,95.25,Free/Reduced Lunch: Reduced Price Meal Eligible,2630013: Odyssey Community School District
-137,94.56,127.0,94.76,137.0,95.88,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2630013: Odyssey Community School District
 38,92.17,37.0,95.97,47.0,95.94,English Learners: English Learners,2630013: Odyssey Community School District
 85,90.95,78.0,97.07,76.0,93.57,Race/Ethnicity: All other races,2630013: Odyssey Community School District
 70,96.03,71.0,95.93,72.0,97.46,Race/Ethnicity: Black or African American,2630013: Odyssey Community School District
@@ -1612,7 +1440,6 @@
 29,93.24,29.0,95.45,27.0,96.27,Students With Disabilities: Students With Disabilities,2640013: Integrated Day Charter School District
 140,92.65,117.0,94.43,116.0,95.85,Free/Reduced Lunch: Free Meal Eligible,2640013: Integrated Day Charter School District
 34,93.0,28.0,95.31,36.0,94.84,Free/Reduced Lunch: Reduced Price Meal Eligible,2640013: Integrated Day Charter School District
-174,92.72,145.0,94.6,152.0,95.61,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2640013: Integrated Day Charter School District
 22,94.24,25.0,95.7,29.0,97.09,English Learners: English Learners,2640013: Integrated Day Charter School District
 80,94.76,81.0,95.82,75.0,96.4,Race/Ethnicity: All other races,2640013: Integrated Day Charter School District
 39,93.84,34.0,94.47,34.0,95.87,Race/Ethnicity: Black or African American,2640013: Integrated Day Charter School District
@@ -1623,7 +1450,6 @@
 50,90.43,53.0,95.75,48.0,93.91,Students With Disabilities: Students With Disabilities,2650013: Interdistrict School for Arts and Comm District
 162,91.21,173.0,95.12,168.0,94.66,Free/Reduced Lunch: Free Meal Eligible,2650013: Interdistrict School for Arts and Comm District
 30,94.27,26.0,95.65,21.0,95.4,Free/Reduced Lunch: Reduced Price Meal Eligible,2650013: Interdistrict School for Arts and Comm District
-192,91.68,199.0,95.19,189.0,94.74,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2650013: Interdistrict School for Arts and Comm District
 56,92.45,54.0,95.78,52.0,95.11,English Learners: English Learners,2650013: Interdistrict School for Arts and Comm District
 42,94.99,49.0,95.85,,,Race/Ethnicity: Black or African American,2650013: Interdistrict School for Arts and Comm District
 180,92.51,173.0,95.83,168.0,95.29,Race/Ethnicity: Hispanic/Latino of any race,2650013: Interdistrict School for Arts and Comm District
@@ -1631,7 +1457,6 @@
 206,91.92,214.0,95.37,204.0,94.82,High Needs: Students With High Needs,2650013: Interdistrict School for Arts and Comm District
 52,80.69,55.0,74.98,53.0,94.07,Students With Disabilities: Students With Disabilities,2680013: Common Ground High School District
 122,79.64,140.0,74.76,133.0,93.24,Free/Reduced Lunch: Free Meal Eligible,2680013: Common Ground High School District
-136,79.78,152.0,74.67,142.0,93.18,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2680013: Common Ground High School District
 69,83.4,75.0,78.05,81.0,93.27,Race/Ethnicity: Black or African American,2680013: Common Ground High School District
 88,80.38,97.0,73.69,87.0,93.94,Race/Ethnicity: Hispanic/Latino of any race,2680013: Common Ground High School District
 57,89.19,60.0,87.55,53.0,94.67,High Needs: Students Without High Needs,2680013: Common Ground High School District
@@ -1639,7 +1464,6 @@
 51,92.55,57.0,88.14,57.0,92.23,Students With Disabilities: Students With Disabilities,2690013: The Bridge Academy District
 154,93.0,173.0,92.14,173.0,93.5,Free/Reduced Lunch: Free Meal Eligible,2690013: The Bridge Academy District
 35,93.43,33.0,95.34,39.0,94.65,Free/Reduced Lunch: Reduced Price Meal Eligible,2690013: The Bridge Academy District
-189,93.08,206.0,92.66,212.0,93.71,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2690013: The Bridge Academy District
 147,94.23,155.0,92.87,147.0,94.14,Race/Ethnicity: Black or African American,2690013: The Bridge Academy District
 117,93.47,107.0,94.14,115.0,94.03,Race/Ethnicity: Hispanic/Latino of any race,2690013: The Bridge Academy District
 64,96.27,51.0,97.63,48.0,96.81,High Needs: Students Without High Needs,2690013: The Bridge Academy District
@@ -1647,7 +1471,6 @@
 23,93.74,20.0,92.66,21.0,96.3,Students With Disabilities: Students With Disabilities,2700013: Side By Side Charter School District
 95,94.56,84.0,91.44,94.0,96.62,Free/Reduced Lunch: Free Meal Eligible,2700013: Side By Side Charter School District
 22,92.32,34.0,93.82,24.0,96.42,Free/Reduced Lunch: Reduced Price Meal Eligible,2700013: Side By Side Charter School District
-117,94.13,118.0,92.13,118.0,96.58,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2700013: Side By Side Charter School District
 32,95.53,28.0,88.1,21.0,96.77,English Learners: English Learners,2700013: Side By Side Charter School District
 59,94.72,52.0,93.26,57.0,96.56,Race/Ethnicity: Black or African American,2700013: Side By Side Charter School District
 116,94.54,110.0,93.6,104.0,96.34,Race/Ethnicity: Hispanic/Latino of any race,2700013: Side By Side Charter School District
@@ -1655,14 +1478,12 @@
 131,94.33,128.0,92.23,128.0,96.69,High Needs: Students With High Needs,2700013: Side By Side Charter School District
 24,81.43,29.0,85.93,29.0,89.23,Students With Disabilities: Students With Disabilities,2720013: Explorations District
 48,84.18,49.0,85.57,53.0,91.16,Free/Reduced Lunch: Free Meal Eligible,2720013: Explorations District
-57,84.89,56.0,86.69,60.0,91.89,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2720013: Explorations District
 73,87.41,65.0,88.62,69.0,92.15,Race/Ethnicity: White,2720013: Explorations District
 24,90.43,,,,,High Needs: Students Without High Needs,2720013: Explorations District
 62,84.53,,,,,High Needs: Students With High Needs,2720013: Explorations District
 98,86.64,99.0,92.11,83.0,93.74,Students With Disabilities: Students With Disabilities,2790013: Amistad Academy District
 640,87.1,692.0,91.81,718.0,95.34,Free/Reduced Lunch: Free Meal Eligible,2790013: Amistad Academy District
 71,90.67,122.0,96.36,87.0,96.26,Free/Reduced Lunch: Reduced Price Meal Eligible,2790013: Amistad Academy District
-711,87.46,814.0,92.49,805.0,95.44,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2790013: Amistad Academy District
 132,90.76,104.0,94.73,108.0,96.98,English Learners: English Learners,2790013: Amistad Academy District
 656,87.93,693.0,93.08,673.0,95.73,Race/Ethnicity: Black or African American,2790013: Amistad Academy District
 395,88.99,394.0,94.91,368.0,96.17,Race/Ethnicity: Hispanic/Latino of any race,2790013: Amistad Academy District
@@ -1670,7 +1491,6 @@
 789,87.75,860.0,92.73,839.0,95.51,High Needs: Students With High Needs,2790013: Amistad Academy District
 30,90.77,43.0,80.68,49.0,94.46,Students With Disabilities: Students With Disabilities,2800013: New Beginnings Inc Family Academy District
 338,91.2,309.0,80.21,337.0,94.66,Free/Reduced Lunch: Free Meal Eligible,2800013: New Beginnings Inc Family Academy District
-345,91.16,339.0,80.04,373.0,94.61,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2800013: New Beginnings Inc Family Academy District
 215,91.82,261.0,80.9,256.0,95.0,Race/Ethnicity: Black or African American,2800013: New Beginnings Inc Family Academy District
 161,89.82,157.0,79.36,140.0,94.06,Race/Ethnicity: Hispanic/Latino of any race,2800013: New Beginnings Inc Family Academy District
 39,89.44,82.0,81.68,40.0,95.44,High Needs: Students Without High Needs,2800013: New Beginnings Inc Family Academy District
@@ -1678,7 +1498,6 @@
 28,95.01,31.0,91.32,33.0,93.65,Students With Disabilities: Students With Disabilities,2830013: Park City Prep Charter School District
 218,93.78,222.0,91.65,242.0,95.69,Free/Reduced Lunch: Free Meal Eligible,2830013: Park City Prep Charter School District
 35,95.16,37.0,94.55,49.0,96.17,Free/Reduced Lunch: Reduced Price Meal Eligible,2830013: Park City Prep Charter School District
-253,93.97,259.0,92.07,291.0,95.77,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2830013: Park City Prep Charter School District
 28,94.84,29.0,94.21,27.0,96.01,English Learners: English Learners,2830013: Park City Prep Charter School District
 157,94.59,156.0,92.69,152.0,96.37,Race/Ethnicity: Black or African American,2830013: Park City Prep Charter School District
 146,93.1,154.0,91.69,173.0,95.38,Race/Ethnicity: Hispanic/Latino of any race,2830013: Park City Prep Charter School District
@@ -1687,7 +1506,6 @@
 96,85.03,105.0,92.36,107.0,95.19,Students With Disabilities: Students With Disabilities,2850013: Achievement First Bridgeport Academy District
 518,85.83,668.0,92.86,683.0,95.58,Free/Reduced Lunch: Free Meal Eligible,2850013: Achievement First Bridgeport Academy District
 62,89.26,95.0,95.62,95.0,96.72,Free/Reduced Lunch: Reduced Price Meal Eligible,2850013: Achievement First Bridgeport Academy District
-580,86.2,763.0,93.21,778.0,95.72,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2850013: Achievement First Bridgeport Academy District
 137,89.07,128.0,93.84,145.0,96.19,English Learners: English Learners,2850013: Achievement First Bridgeport Academy District
 570,88.16,595.0,94.45,583.0,96.22,Race/Ethnicity: Black or African American,2850013: Achievement First Bridgeport Academy District
 457,86.22,498.0,93.71,473.0,95.64,Race/Ethnicity: Hispanic/Latino of any race,2850013: Achievement First Bridgeport Academy District
@@ -1696,7 +1514,6 @@
 34,87.84,22.0,95.13,24.0,94.13,Students With Disabilities: Students With Disabilities,2860013: Highville Charter School District
 252,86.9,210.0,93.26,209.0,94.04,Free/Reduced Lunch: Free Meal Eligible,2860013: Highville Charter School District
 46,89.21,29.0,93.45,46.0,97.45,Free/Reduced Lunch: Reduced Price Meal Eligible,2860013: Highville Charter School District
-298,87.25,239.0,93.29,255.0,94.67,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2860013: Highville Charter School District
 345,88.11,331.0,94.46,340.0,94.82,Race/Ethnicity: Black or African American,2860013: Highville Charter School District
 46,88.71,26.0,95.71,,,Race/Ethnicity: Hispanic/Latino of any race,2860013: Highville Charter School District
 94,90.09,120.0,96.94,106.0,95.01,High Needs: Students Without High Needs,2860013: Highville Charter School District
@@ -1704,7 +1521,6 @@
 103,86.41,112.0,89.97,114.0,95.06,Students With Disabilities: Students With Disabilities,2880013: Achievement First Hartford Academy District
 686,87.12,816.0,89.09,861.0,95.52,Free/Reduced Lunch: Free Meal Eligible,2880013: Achievement First Hartford Academy District
 62,91.72,87.0,93.4,59.0,97.71,Free/Reduced Lunch: Reduced Price Meal Eligible,2880013: Achievement First Hartford Academy District
-748,87.5,903.0,89.51,920.0,95.66,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2880013: Achievement First Hartford Academy District
 50,87.81,69.0,89.45,66.0,95.38,English Learners: English Learners,2880013: Achievement First Hartford Academy District
 795,88.92,831.0,91.36,821.0,96.36,Race/Ethnicity: Black or African American,2880013: Achievement First Hartford Academy District
 267,86.31,292.0,88.4,285.0,94.61,Race/Ethnicity: Hispanic/Latino of any race,2880013: Achievement First Hartford Academy District
@@ -1713,21 +1529,18 @@
 70,83.07,69.0,89.56,74.0,92.94,Students With Disabilities: Students With Disabilities,2890013: Elm City College Preparatory School District
 450,85.62,496.0,92.09,500.0,95.05,Free/Reduced Lunch: Free Meal Eligible,2890013: Elm City College Preparatory School District
 41,88.6,72.0,96.76,44.0,97.0,Free/Reduced Lunch: Reduced Price Meal Eligible,2890013: Elm City College Preparatory School District
-491,85.88,568.0,92.68,544.0,95.21,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2890013: Elm City College Preparatory School District
 63,91.15,45.0,96.07,54.0,97.17,English Learners: English Learners,2890013: Elm City College Preparatory School District
 496,85.92,501.0,92.46,506.0,95.29,Race/Ethnicity: Black or African American,2890013: Elm City College Preparatory School District
 230,88.25,224.0,95.94,203.0,96.19,Race/Ethnicity: Hispanic/Latino of any race,2890013: Elm City College Preparatory School District
 226,88.01,168.0,96.24,173.0,96.7,High Needs: Students Without High Needs,2890013: Elm City College Preparatory School District
 528,86.21,589.0,92.78,568.0,95.29,High Needs: Students With High Needs,2890013: Elm City College Preparatory School District
 35,91.42,33.0,89.75,26.0,95.46,Students With Disabilities: Students With Disabilities,2900013: Brass City Charter School District
-165,91.02,169.0,90.33,178.0,94.58,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2900013: Brass City Charter School District
 34,93.62,30.0,94.84,25.0,94.93,Race/Ethnicity: All other races,2900013: Brass City Charter School District
 100,91.28,106.0,90.09,102.0,94.56,Race/Ethnicity: Black or African American,2900013: Brass City Charter School District
 161,91.69,157.0,92.29,136.0,94.83,Race/Ethnicity: Hispanic/Latino of any race,2900013: Brass City Charter School District
 23,93.22,27.0,92.69,26.0,95.26,Race/Ethnicity: White,2900013: Brass City Charter School District
 132,92.75,132.0,93.4,102.0,94.86,High Needs: Students Without High Needs,2900013: Brass City Charter School District
 183,91.27,188.0,90.73,187.0,94.73,High Needs: Students With High Needs,2900013: Brass City Charter School District
-79,91.96,71.0,88.9,72.0,95.41,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2910013: Elm City Montessori School District
 23,94.41,,,,,Race/Ethnicity: All other races,2910013: Elm City Montessori School District
 60,93.09,61.0,90.88,52.0,95.96,Race/Ethnicity: Black or African American,2910013: Elm City Montessori School District
 53,94.29,,,,,Race/Ethnicity: Hispanic/Latino of any race,2910013: Elm City Montessori School District
@@ -1737,7 +1550,6 @@
 97,88.16,114.0,96.29,90.0,94.16,Students With Disabilities: Students With Disabilities,2940013: Great Oaks Charter School District
 290,89.88,,,348.0,94.07,Free/Reduced Lunch: Free Meal Eligible,2940013: Great Oaks Charter School District
 47,91.34,,,46.0,94.68,Free/Reduced Lunch: Reduced Price Meal Eligible,2940013: Great Oaks Charter School District
-337,90.09,,,394.0,94.14,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2940013: Great Oaks Charter School District
 71,92.54,78.0,96.83,66.0,93.97,English Learners: English Learners,2940013: Great Oaks Charter School District
 260,91.28,306.0,96.58,236.0,94.78,Race/Ethnicity: Black or African American,2940013: Great Oaks Charter School District
 286,91.15,297.0,96.43,234.0,94.54,Race/Ethnicity: Hispanic/Latino of any race,2940013: Great Oaks Charter School District
@@ -1746,7 +1558,6 @@
 34,91.53,36.0,83.23,30.0,93.93,Students With Disabilities: Students With Disabilities,2950013: Booker T. Washington Academy District
 284,90.22,270.0,83.45,221.0,93.48,Free/Reduced Lunch: Free Meal Eligible,2950013: Booker T. Washington Academy District
 105,92.96,109.0,87.72,99.0,94.39,Free/Reduced Lunch: Reduced Price Meal Eligible,2950013: Booker T. Washington Academy District
-389,90.96,379.0,84.69,320.0,93.76,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2950013: Booker T. Washington Academy District
 25,86.31,22.0,85.27,26.0,93.36,English Learners: English Learners,2950013: Booker T. Washington Academy District
 407,92.13,400.0,86.31,341.0,94.32,Race/Ethnicity: Black or African American,2950013: Booker T. Washington Academy District
 69,87.39,62.0,84.66,53.0,93.4,Race/Ethnicity: Hispanic/Latino of any race,2950013: Booker T. Washington Academy District
@@ -1755,7 +1566,6 @@
 32,92.46,27.0,97.24,23.0,95.18,Students With Disabilities: Students With Disabilities,2960013: Stamford Charter School for Excellence District
 170,92.89,192.0,96.54,,,Free/Reduced Lunch: Free Meal Eligible,2960013: Stamford Charter School for Excellence District
 40,93.33,44.0,97.22,,,Free/Reduced Lunch: Reduced Price Meal Eligible,2960013: Stamford Charter School for Excellence District
-210,92.97,236.0,96.67,155.0,96.41,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2960013: Stamford Charter School for Excellence District
 50,95.01,46.0,97.2,45.0,97.48,English Learners: English Learners,2960013: Stamford Charter School for Excellence District
 131,92.23,118.0,98.59,93.0,96.18,Race/Ethnicity: All other races,2960013: Stamford Charter School for Excellence District
 193,93.86,177.0,97.05,155.0,96.27,Race/Ethnicity: Black or African American,2960013: Stamford Charter School for Excellence District
@@ -1764,7 +1574,6 @@
 76,90.61,69.0,93.1,71.0,95.35,Students With Disabilities: Students With Disabilities,2970013: Capital Preparatory Harbor School District
 393,90.67,415.0,92.98,488.0,95.8,Free/Reduced Lunch: Free Meal Eligible,2970013: Capital Preparatory Harbor School District
 67,92.09,68.0,95.05,53.0,98.14,Free/Reduced Lunch: Reduced Price Meal Eligible,2970013: Capital Preparatory Harbor School District
-460,90.88,483.0,93.27,541.0,96.03,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,2970013: Capital Preparatory Harbor School District
 54,92.22,45.0,95.24,49.0,97.33,English Learners: English Learners,2970013: Capital Preparatory Harbor School District
 490,91.19,516.0,93.99,498.0,96.45,Race/Ethnicity: Black or African American,2970013: Capital Preparatory Harbor School District
 234,90.73,213.0,93.94,200.0,96.06,Race/Ethnicity: Hispanic/Latino of any race,2970013: Capital Preparatory Harbor School District
@@ -1772,18 +1581,15 @@
 504,90.92,513.0,93.28,556.0,96.07,High Needs: Students With High Needs,2970013: Capital Preparatory Harbor School District
 85,95.29,,,,,Students With Disabilities: Students With Disabilities,3360015: Unified School District #1
 102,95.36,94.0,95.21,150.0,94.88,Free/Reduced Lunch: Free Meal Eligible,3360015: Unified School District #1
-104,95.41,95.0,95.24,150.0,94.88,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,3360015: Unified School District #1
 71,95.83,79.0,95.13,83.0,94.81,Race/Ethnicity: Black or African American,3360015: Unified School District #1
 58,95.63,44.0,93.74,51.0,94.37,Race/Ethnicity: Hispanic/Latino of any race,3360015: Unified School District #1
 56,92.51,,,76.0,95.64,Free/Reduced Lunch: Free Meal Eligible,3470015: Unified School District #2
-59,92.68,,,76.0,95.64,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,3470015: Unified School District #2
 20,91.56,,,,,Race/Ethnicity: Black or African American,3470015: Unified School District #2
 33,91.55,26.0,94.57,29.0,92.37,Race/Ethnicity: White,3470015: Unified School District #2
 27,71.52,20.0,82.11,56.0,88.82,Homelessness: Students Experiencing Homelessness,9000016: Connecticut Technical Education and Career System
 1672,89.21,1428.0,92.87,1196.0,94.59,Students With Disabilities: Students With Disabilities,9000016: Connecticut Technical Education and Career System
 4181,89.32,5259.0,91.26,5207.0,94.07,Free/Reduced Lunch: Free Meal Eligible,9000016: Connecticut Technical Education and Career System
 838,90.06,869.0,94.4,869.0,95.37,Free/Reduced Lunch: Reduced Price Meal Eligible,9000016: Connecticut Technical Education and Career System
-5019,89.44,6128.0,91.7,6076.0,94.26,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,9000016: Connecticut Technical Education and Career System
 487,88.4,451.0,90.21,470.0,94.89,English Learners: English Learners,9000016: Connecticut Technical Education and Career System
 703,89.54,624.0,93.07,621.0,94.66,Race/Ethnicity: All other races,9000016: Connecticut Technical Education and Career System
 1308,89.06,1298.0,91.92,1267.0,94.94,Race/Ethnicity: Black or African American,9000016: Connecticut Technical Education and Career System
@@ -1794,7 +1600,6 @@
 256,86.9,245.0,83.39,242.0,90.6,Students With Disabilities: Students With Disabilities,9010022: Norwich Free Academy District
 846,86.64,782.0,85.47,966.0,91.27,Free/Reduced Lunch: Free Meal Eligible,9010022: Norwich Free Academy District
 188,91.15,150.0,90.38,198.0,94.61,Free/Reduced Lunch: Reduced Price Meal Eligible,9010022: Norwich Free Academy District
-1034,87.46,932.0,86.26,1164.0,91.85,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,9010022: Norwich Free Academy District
 196,85.8,183.0,81.83,223.0,92.14,English Learners: English Learners,9010022: Norwich Free Academy District
 267,90.55,285.0,92.21,355.0,93.2,Race/Ethnicity: All other races,9010022: Norwich Free Academy District
 298,89.09,288.0,89.04,336.0,93.43,Race/Ethnicity: Black or African American,9010022: Norwich Free Academy District
@@ -1805,14 +1610,12 @@
 65,86.7,71.0,92.13,73.0,92.08,Students With Disabilities: Students With Disabilities,9020022: The Gilbert School District
 154,86.46,166.0,92.53,147.0,92.2,Free/Reduced Lunch: Free Meal Eligible,9020022: The Gilbert School District
 44,87.72,39.0,92.71,49.0,93.3,Free/Reduced Lunch: Reduced Price Meal Eligible,9020022: The Gilbert School District
-198,86.74,205.0,92.56,196.0,92.48,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,9020022: The Gilbert School District
 87,87.36,73.0,93.1,78.0,92.6,Race/Ethnicity: Hispanic/Latino of any race,9020022: The Gilbert School District
 277,89.36,313.0,95.17,323.0,94.12,Race/Ethnicity: White,9020022: The Gilbert School District
 189,91.57,200.0,96.79,243.0,95.17,High Needs: Students Without High Needs,9020022: The Gilbert School District
 228,86.96,238.0,92.81,227.0,92.59,High Needs: Students With High Needs,9020022: The Gilbert School District
 72,91.76,69.0,92.87,63.0,90.58,Students With Disabilities: Students With Disabilities,9030022: The Woodstock Academy District
 23,84.78,,,42.0,89.43,Free/Reduced Lunch: Free Meal Eligible,9030022: The Woodstock Academy District
-23,84.78,,,42.0,89.43,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,9030022: The Woodstock Academy District
 86,93.93,91.0,96.5,126.0,97.39,Race/Ethnicity: All other races,9030022: The Woodstock Academy District
 901,92.88,899.0,95.87,925.0,94.37,Race/Ethnicity: White,9030022: The Woodstock Academy District
 949,93.18,953.0,96.17,1009.0,95.16,High Needs: Students Without High Needs,9030022: The Woodstock Academy District

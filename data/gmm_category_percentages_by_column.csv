@@ -1,6 +1,7 @@
-gmm_cluster,English Learners: English Learners,Free/Reduced Lunch: Free Meal Eligible,Free/Reduced Lunch: Free/Reduced Price Meal Eligible,Free/Reduced Lunch: Reduced Price Meal Eligible,High Needs: Students With High Needs,High Needs: Students Without High Needs,Homelessness: Students Experiencing Homelessness,Race/Ethnicity: All other races,Race/Ethnicity: Black or African American,Race/Ethnicity: Hispanic/Latino of any race,Race/Ethnicity: White,Students With Disabilities: Students With Disabilities
-0,16.2,32.9,35.5,4.1,54.3,64.0,0.0,52.9,28.1,31.0,80.2,41.6
-1,50.4,25.3,34.0,75.7,22.3,28.4,0.0,29.8,37.5,30.4,11.5,21.6
-2,2.6,2.5,3.6,4.1,1.0,1.0,73.3,0.0,0.8,1.2,0.5,2.6
-3,4.3,7.0,2.5,5.4,1.0,1.0,13.3,5.8,4.7,10.7,1.6,3.2
-4,26.5,32.3,24.4,10.8,21.3,5.6,13.3,11.6,28.9,26.8,6.0,31.1
+gmm_cluster,English Learners: English Learners,Free/Reduced Lunch: Free Meal Eligible,Free/Reduced Lunch: Reduced Price Meal Eligible,High Needs: Students With High Needs,High Needs: Students Without High Needs,Homelessness: Students Experiencing Homelessness,Race/Ethnicity: All other races,Race/Ethnicity: Black or African American,Race/Ethnicity: Hispanic/Latino of any race,Race/Ethnicity: White,Students With Disabilities: Students With Disabilities
+0,38.5,37.3,13.5,40.1,23.9,0.0,43.8,45.3,39.3,22.5,34.7
+1,4.3,13.3,0.0,12.2,1.5,0.0,5.0,10.2,10.7,4.4,15.8
+2,11.1,5.1,14.2,3.0,1.0,80.0,1.7,4.7,6.0,0.5,7.4
+3,4.3,7.6,5.4,1.0,1.0,20.0,5.8,4.7,10.7,1.6,3.2
+4,40.2,21.5,66.2,17.3,21.8,0.0,19.0,29.7,26.2,9.9,20.0
+5,1.7,15.2,0.7,26.4,50.8,0.0,24.8,5.5,7.1,61.0,18.9
